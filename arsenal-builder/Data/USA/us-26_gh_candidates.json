@@ -1,0 +1,2992 @@
+{
+  "AC Scanner - QubitAC Automated Post-Quantum Cryptography Discovery Tool": {
+    "query": "AC Scanner",
+    "candidates": [
+      {
+        "full_name": "github/accessibilityjs",
+        "url": "https://github.com/github/accessibilityjs",
+        "stars": 2164,
+        "desc": "Client side accessibility error scanner.",
+        "updated": "2020-08-03T15:47:33Z"
+      },
+      {
+        "full_name": "aquasecurity/trivy-action",
+        "url": "https://github.com/aquasecurity/trivy-action",
+        "stars": 1390,
+        "desc": "Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities",
+        "updated": "2026-08-05T13:44:02Z"
+      },
+      {
+        "full_name": "kyleavery/AceLdr",
+        "url": "https://github.com/kyleavery/AceLdr",
+        "stars": 1031,
+        "desc": "Cobalt Strike UDRL for memory scanner evasion.",
+        "updated": "2024-06-04T16:45:42Z"
+      },
+      {
+        "full_name": "KuhakuPixel/AceTheGame",
+        "url": "https://github.com/KuhakuPixel/AceTheGame",
+        "stars": 425,
+        "desc": "open source security auditing tools for games on android and linux. Containing memory scanner/editor, apk GUI, value freezer, android non root support and many more! ",
+        "updated": "2024-08-08T14:20:38Z"
+      },
+      {
+        "full_name": "github/accessibility-scanner",
+        "url": "https://github.com/github/accessibility-scanner",
+        "stars": 340,
+        "desc": "Finds potential accessibility gaps, files GitHub issues to track them, and attempts to fix them with Copilot.",
+        "updated": "2026-08-05T23:48:41Z"
+      },
+      {
+        "full_name": "kitabisa/sonarqube-action",
+        "url": "https://github.com/kitabisa/sonarqube-action",
+        "stars": 159,
+        "desc": "Integrate SonarQube scanner to GitHub Actions",
+        "updated": "2024-12-29T15:47:56Z"
+      }
+    ]
+  },
+  "AD Miner – One step further applying graph theory for Active Directory security analysis": {
+    "query": "AD Miner",
+    "candidates": [
+      {
+        "full_name": "AD-Security/AD_Miner",
+        "url": "https://github.com/AD-Security/AD_Miner",
+        "stars": 1554,
+        "desc": "AD Miner is an Active Directory audit tool that leverages cypher queries to crunch data from the #Bloodhound graph database to uncover security weaknesses",
+        "updated": "2026-03-18T08:32:31Z"
+      },
+      {
+        "full_name": "hoshsadiq/adblock-nocoin-list",
+        "url": "https://github.com/hoshsadiq/adblock-nocoin-list",
+        "stars": 1520,
+        "desc": "Block lists to prevent JavaScript miners ",
+        "updated": "2026-05-19T23:21:52Z"
+      },
+      {
+        "full_name": "quexiang/Adjacency_Matrix_4_Mineral_Informatics",
+        "url": "https://github.com/quexiang/Adjacency_Matrix_4_Mineral_Informatics",
+        "stars": 30,
+        "desc": "",
+        "updated": "2026-08-05T07:06:13Z"
+      },
+      {
+        "full_name": "smartnsoft/android-monero-miner",
+        "url": "https://github.com/smartnsoft/android-monero-miner",
+        "stars": 26,
+        "desc": "A minimal SDK that lets an integrator add a Monero Miner using the Javascript miner created by CoinHive. The Monero Miner can be used with any CoinHive address and is a proof of concept of an alternative to ad banners an",
+        "updated": "2018-07-27T13:48:26Z"
+      },
+      {
+        "full_name": "DuelMonster/MinersAdvantage",
+        "url": "https://github.com/DuelMonster/MinersAdvantage",
+        "stars": 22,
+        "desc": "MinersAdvantage is a reimagening of my previous mod 'SuperMiner'.  It is a rewrite from the ground up that aims to solve all previous issues and to add additional features.",
+        "updated": "2026-08-04T22:33:15Z"
+      },
+      {
+        "full_name": "AddrMiner/AddrMiner-v2.0",
+        "url": "https://github.com/AddrMiner/AddrMiner-v2.0",
+        "stars": 16,
+        "desc": "",
+        "updated": "2023-10-24T01:53:57Z"
+      }
+    ]
+  },
+  "AI Attack & Defence Wargame: The Insurance Company Edition": {
+    "query": "AI Attack & Defence Wargame",
+    "candidates": []
+  },
+  "APTL: Advanced Purple Team Labs": {
+    "query": "APTL",
+    "candidates": [
+      {
+        "full_name": "aptly-dev/aptly",
+        "url": "https://github.com/aptly-dev/aptly",
+        "stars": 2858,
+        "desc": "aptly - Debian repository management tool",
+        "updated": "2026-07-25T01:07:23Z"
+      },
+      {
+        "full_name": "tcpcloud/python-aptly",
+        "url": "https://github.com/tcpcloud/python-aptly",
+        "stars": 47,
+        "desc": "Aptly REST API Python client and useful tooling",
+        "updated": "2024-07-17T10:02:49Z"
+      },
+      {
+        "full_name": "mikepurvis/aptly-docker",
+        "url": "https://github.com/mikepurvis/aptly-docker",
+        "stars": 45,
+        "desc": "Aptly containers for Docker",
+        "updated": "2022-08-24T17:21:20Z"
+      },
+      {
+        "full_name": "sepulworld/aptly_cli",
+        "url": "https://github.com/sepulworld/aptly_cli",
+        "stars": 44,
+        "desc": "Aptly client",
+        "updated": "2022-03-08T01:02:36Z"
+      },
+      {
+        "full_name": "bryanhong/docker-aptly",
+        "url": "https://github.com/bryanhong/docker-aptly",
+        "stars": 40,
+        "desc": "Dockerfile and support scripts to run aptly in a container backed by nginx",
+        "updated": "2022-08-17T17:58:10Z"
+      },
+      {
+        "full_name": "aioue/ansible-role-aptly",
+        "url": "https://github.com/aioue/ansible-role-aptly",
+        "stars": 40,
+        "desc": "Install aptly debian respository manager and enable the REST API",
+        "updated": "2026-03-22T19:29:29Z"
+      }
+    ]
+  },
+  "ARAY: Benign Binary Synthesis for Signature Validation Without the Malware": {
+    "query": "ARAY",
+    "candidates": [
+      {
+        "full_name": "Reset-Sheep/ArayTS",
+        "url": "https://github.com/Reset-Sheep/ArayTS",
+        "stars": 157,
+        "desc": "让 TypeScript 开发如丝般顺滑 高效、优雅的 TypeScript 算法工具集，为您的项目注入算法力量。",
+        "updated": "2025-04-21T05:19:38Z"
+      },
+      {
+        "full_name": "huseyinkayhan1/WebArayuzProgramlama",
+        "url": "https://github.com/huseyinkayhan1/WebArayuzProgramlama",
+        "stars": 27,
+        "desc": "Anadolu Üniversitesi Bilgisayar Programcılığı Web Arayüz Kodlama Dersi",
+        "updated": "2022-09-08T20:17:16Z"
+      },
+      {
+        "full_name": "aaaaangel/Pedestrian360",
+        "url": "https://github.com/aaaaangel/Pedestrian360",
+        "stars": 23,
+        "desc": "The implementation of \"Pedestrian-Aware Panoramic Video Stitching Based on a Structured Camera Aray\".",
+        "updated": "2021-03-10T12:51:17Z"
+      },
+      {
+        "full_name": "g0v/aray",
+        "url": "https://github.com/g0v/aray",
+        "stars": 16,
+        "desc": "貢獻者與學習者時數平台",
+        "updated": "2025-08-11T16:33:13Z"
+      },
+      {
+        "full_name": "ipekguzel8/Turksat2020-Yer-Istasyonu-Arayuz",
+        "url": "https://github.com/ipekguzel8/Turksat2020-Yer-Istasyonu-Arayuz",
+        "stars": 10,
+        "desc": "Türksat Model Uydu Yarışması/",
+        "updated": "2020-10-31T18:40:10Z"
+      },
+      {
+        "full_name": "atilsamancioglu/BTKAndroid01-Arayuz",
+        "url": "https://github.com/atilsamancioglu/BTKAndroid01-Arayuz",
+        "stars": 8,
+        "desc": "",
+        "updated": "2024-04-06T13:26:42Z"
+      }
+    ]
+  },
+  "AgentsLeak: Runtime Protection for AI Coding Agents": {
+    "query": "AgentsLeak",
+    "candidates": [
+      {
+        "full_name": "IngaCherny/AgentsLeak",
+        "url": "https://github.com/IngaCherny/AgentsLeak",
+        "stars": 4,
+        "desc": "Runtime security monitoring for AI coding agents",
+        "updated": "2026-08-03T05:49:58Z"
+      },
+      {
+        "full_name": "Cato-CTRL/AgentsLeak",
+        "url": "https://github.com/Cato-CTRL/AgentsLeak",
+        "stars": 0,
+        "desc": "Public mirror of AgentsLeak",
+        "updated": "2026-03-08T13:38:15Z"
+      }
+    ]
+  },
+  "Anthropic-Cybersecurity-Skills": {
+    "query": "Anthropic-Cybersecurity-Skills",
+    "candidates": [
+      {
+        "full_name": "mukul975/Anthropic-Cybersecurity-Skills",
+        "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
+        "stars": 27378,
+        "desc": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF & MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub",
+        "updated": "2026-08-02T17:47:41Z"
+      },
+      {
+        "full_name": "costrict-plugins-repo/mukul975-anthropic-cybersecurity-skills-cybersecurity-skills",
+        "url": "https://github.com/costrict-plugins-repo/mukul975-anthropic-cybersecurity-skills-cybersecurity-skills",
+        "stars": 49,
+        "desc": "costrict-plugins mirror of mukul975-anthropic-cybersecurity-skills-cybersecurity-skills (auto-generated, do not edit)",
+        "updated": "2026-06-30T12:23:54Z"
+      },
+      {
+        "full_name": "jeffrey1205/Anthropic-Cybersecurity-Skills-cn",
+        "url": "https://github.com/jeffrey1205/Anthropic-Cybersecurity-Skills-cn",
+        "stars": 2,
+        "desc": "Anthropic-Cybersecurity-Skills 中文翻译",
+        "updated": "2026-05-27T07:21:07Z"
+      },
+      {
+        "full_name": "Ayush7614/aegis-mind",
+        "url": "https://github.com/Ayush7614/aegis-mind",
+        "stars": 2,
+        "desc": "Forge your security mind — cybersecurity, AI security, agents, MCP, and Anthropic-style skills. Learning in public by Ayush Kumar.",
+        "updated": "2026-06-25T14:04:01Z"
+      },
+      {
+        "full_name": "balajiuk14/https-github.com-mukul975-Anthropic-Cybersecurity-Skills",
+        "url": "https://github.com/balajiuk14/https-github.com-mukul975-Anthropic-Cybersecurity-Skills",
+        "stars": 1,
+        "desc": "Cybersecurity skills",
+        "updated": "2026-07-17T04:51:22Z"
+      },
+      {
+        "full_name": "rockcelio1/https-github.com-mukul975-Anthropic-Cybersecurity-Skills",
+        "url": "https://github.com/rockcelio1/https-github.com-mukul975-Anthropic-Cybersecurity-Skills",
+        "stars": 1,
+        "desc": "SKIL  975",
+        "updated": "2026-06-08T22:48:43Z"
+      }
+    ]
+  },
+  "Azazel-Edge : Deterministic Edge Decision Support for Constrained SOC/NOC Operations": {
+    "query": "Azazel-Edge",
+    "candidates": [
+      {
+        "full_name": "01rabbit/Azazel",
+        "url": "https://github.com/01rabbit/Azazel",
+        "stars": 12,
+        "desc": "Azazel System: Cyber Scapegoat Gateway doctrine and tool family for delaying action, deception, and edge defense.",
+        "updated": "2026-08-04T17:02:28Z"
+      },
+      {
+        "full_name": "01rabbit/Azazel-Edge",
+        "url": "https://github.com/01rabbit/Azazel-Edge",
+        "stars": 4,
+        "desc": "Emergency SOC/NOC gateway for Raspberry Pi — deterministic triage + local AI assist (Ollama)",
+        "updated": "2026-08-04T23:44:39Z"
+      }
+    ]
+  },
+  "BadZure: Building Cloud Attack Labs with AI": {
+    "query": "BadZure",
+    "candidates": [
+      {
+        "full_name": "mvelazc0/BadZure",
+        "url": "https://github.com/mvelazc0/BadZure",
+        "stars": 514,
+        "desc": "BadZure automates the deployment of intentionally misconfigured Entra ID tenants and Azure subscriptions, populating them with diverse entities and configurable, traversable attack paths.",
+        "updated": "2026-08-06T03:15:29Z"
+      },
+      {
+        "full_name": "atesemre/BadZure-for-AADPoisoning",
+        "url": "https://github.com/atesemre/BadZure-for-AADPoisoning",
+        "stars": 3,
+        "desc": "",
+        "updated": "2023-07-14T10:48:29Z"
+      },
+      {
+        "full_name": "Zipang-Academy/badzure",
+        "url": "https://github.com/Zipang-Academy/badzure",
+        "stars": 0,
+        "desc": "",
+        "updated": "2026-04-11T16:59:06Z"
+      },
+      {
+        "full_name": "zerobytesecure/BadZure",
+        "url": "https://github.com/zerobytesecure/BadZure",
+        "stars": 0,
+        "desc": "",
+        "updated": "2024-06-25T21:01:16Z"
+      }
+    ]
+  },
+  "Bastet: An Infrastructure for Benchmarking LLM Smart Contract Auditing": {
+    "query": "Bastet",
+    "candidates": [
+      {
+        "full_name": "fph/bastet",
+        "url": "https://github.com/fph/bastet",
+        "stars": 313,
+        "desc": "Evil falling block game. http://fph.altervista.org/prog/bastet.html",
+        "updated": "2022-10-08T02:02:40Z"
+      },
+      {
+        "full_name": "Risto-Stevcev/bastet",
+        "url": "https://github.com/Risto-Stevcev/bastet",
+        "stars": 214,
+        "desc": "A ReasonML/Ocaml library for category theory and abstract algebra",
+        "updated": "2023-02-01T10:45:44Z"
+      },
+      {
+        "full_name": "FoldingAtHome/fah-client-bastet",
+        "url": "https://github.com/FoldingAtHome/fah-client-bastet",
+        "stars": 171,
+        "desc": "Folding@home client, code named Bastet",
+        "updated": "2026-07-13T17:08:31Z"
+      },
+      {
+        "full_name": "OneSavieLabs/Bastet",
+        "url": "https://github.com/OneSavieLabs/Bastet",
+        "stars": 122,
+        "desc": "Bastet is a comprehensive dataset of common smart contract vulnerabilities in DeFi along with an AI-driven automated detection process to enhance vulnerability detection accuracy and optimize security lifecycle managemen",
+        "updated": "2026-04-28T06:24:12Z"
+      },
+      {
+        "full_name": "FoldingAtHome/fah-web-client-bastet",
+        "url": "https://github.com/FoldingAtHome/fah-web-client-bastet",
+        "stars": 50,
+        "desc": "Folding@home client frontend",
+        "updated": "2026-07-19T10:36:53Z"
+      },
+      {
+        "full_name": "biorack/BASTet",
+        "url": "https://github.com/biorack/BASTet",
+        "stars": 9,
+        "desc": "Berkeley Analysis and Storage Toolkit (BASTet)",
+        "updated": "2023-04-18T21:43:21Z"
+      }
+    ]
+  },
+  "Bedrock Keys Security (BKS): Hunting Phantom IAM Users Created by AWS Bedrock API Keys": {
+    "query": "Bedrock Keys Security",
+    "candidates": [
+      {
+        "full_name": "BeyondTrust/bedrock-keys-security",
+        "url": "https://github.com/BeyondTrust/bedrock-keys-security",
+        "stars": 36,
+        "desc": "Detect phantom IAM users, decode leaked AWS Bedrock and Claude Platform API keys, and prevent LLMjacking. CLI + SCPs + SIEM detection rules.",
+        "updated": "2026-08-05T12:36:14Z"
+      },
+      {
+        "full_name": "aws-solutions-library-samples/guidance-for-securing-sensitive-data-in-rag-applications-using-amazon-bedrock",
+        "url": "https://github.com/aws-solutions-library-samples/guidance-for-securing-sensitive-data-in-rag-applications-using-amazon-bedrock",
+        "stars": 8,
+        "desc": "This AWS Guidance provides a comprehensive security framework for Retrieval Augmented Generation (RAG) applications handling sensitive data. It addresses security challenges in generative AI by implementing two key archi",
+        "updated": "2026-03-26T01:08:12Z"
+      },
+      {
+        "full_name": "Zl0wp0k3/agentic-security-orchestrator",
+        "url": "https://github.com/Zl0wp0k3/agentic-security-orchestrator",
+        "stars": 0,
+        "desc": "Autonomous AI-powered security agent for IAM access key remediation using Amazon Bedrock AgentCore",
+        "updated": "2025-11-29T00:09:46Z"
+      },
+      {
+        "full_name": "fgvozdic/aws-bedrock-rag",
+        "url": "https://github.com/fgvozdic/aws-bedrock-rag",
+        "stars": 0,
+        "desc": "Security-first RAG document Q&A on AWS Bedrock — documents stay in S3, IAM-role auth (no static keys), KMS encryption, and a per-query CloudWatch audit log. Least-privilege IaC, CI-validated, never deployed.",
+        "updated": "2026-06-22T21:37:53Z"
+      },
+      {
+        "full_name": "nshportun/AWS-Bedrock-Secret-Scanner",
+        "url": "https://github.com/nshportun/AWS-Bedrock-Secret-Scanner",
+        "stars": 0,
+        "desc": "A TypeScript tool that scans public GitHub repositories for exposed AWS credentials and Bedrock-related secrets, validates discovered key pairs against live AWS APIs, and generates structured JSON reports.",
+        "updated": "2026-05-27T21:29:04Z"
+      },
+      {
+        "full_name": "HelainSchoonjans/building-with-bedrock",
+        "url": "https://github.com/HelainSchoonjans/building-with-bedrock",
+        "stars": 0,
+        "desc": "Workshop participants build simple generative AI demo applications while learning key concepts. Labs cover Amazon Bedrock APIs, agentic applications with Strands Agents, managed agent infrastructure with Amazon Bedrock A",
+        "updated": "2026-05-29T09:03:47Z"
+      }
+    ]
+  },
+  "Brutus: Modern Multi-Protocol Credential Testing in Go": {
+    "query": "Brutus",
+    "candidates": [
+      {
+        "full_name": "C0nw0nk/Nginx-Lua-Anti-DDoS",
+        "url": "https://github.com/C0nw0nk/Nginx-Lua-Anti-DDoS",
+        "stars": 1619,
+        "desc": "A Anti-DDoS script to protect Nginx web servers using Lua with a HTML Javascript based authentication puzzle inspired by Cloudflare I am under attack mode an Anti-DDoS authentication page protect yourself from every atta",
+        "updated": "2026-06-10T13:32:40Z"
+      },
+      {
+        "full_name": "praetorian-inc/brutus",
+        "url": "https://github.com/praetorian-inc/brutus",
+        "stars": 304,
+        "desc": "Fast, zero-dependency credential testing tool in Go. Brute force SSH, MySQL, PostgreSQL, Redis, MongoDB, SMB, and 20+ protocols. Hydra alternative with native nerva/naabu pipeline integration.",
+        "updated": "2026-08-04T05:19:07Z"
+      },
+      {
+        "full_name": "exbotanical/brutus",
+        "url": "https://github.com/exbotanical/brutus",
+        "stars": 82,
+        "desc": "extensible exploitation framework shipped on a modular multi-tasking architecture",
+        "updated": "2022-12-09T05:36:29Z"
+      },
+      {
+        "full_name": "JuliaLabs/brutus",
+        "url": "https://github.com/JuliaLabs/brutus",
+        "stars": 63,
+        "desc": "",
+        "updated": "2025-02-10T09:02:44Z"
+      },
+      {
+        "full_name": "joshspeagle/brutus",
+        "url": "https://github.com/joshspeagle/brutus",
+        "stars": 55,
+        "desc": "Modeling stellar photometry with \"brute force\" methods",
+        "updated": "2026-07-27T21:30:48Z"
+      },
+      {
+        "full_name": "Bialomazur/Brutus",
+        "url": "https://github.com/Bialomazur/Brutus",
+        "stars": 48,
+        "desc": "Educational Botnet for portable pentesting 🐍",
+        "updated": "2026-05-10T06:24:21Z"
+      }
+    ]
+  },
+  "CLOAK : Cloud Testing Agent Harness": {
+    "query": "CLOAK",
+    "candidates": [
+      {
+        "full_name": "CloakHQ/CloakBrowser",
+        "url": "https://github.com/CloakHQ/CloakBrowser",
+        "stars": 29676,
+        "desc": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
+        "updated": "2026-08-05T22:30:55Z"
+      },
+      {
+        "full_name": "amnezia-vpn/amnezia-client",
+        "url": "https://github.com/amnezia-vpn/amnezia-client",
+        "stars": 14342,
+        "desc": "Amnezia VPN Client (Desktop+Mobile)",
+        "updated": "2026-08-06T14:08:37Z"
+      },
+      {
+        "full_name": "cbeuw/Cloak",
+        "url": "https://github.com/cbeuw/Cloak",
+        "stars": 4050,
+        "desc": "A censorship circumvention tool to evade detection by authoritarian state adversaries",
+        "updated": "2026-05-29T22:14:31Z"
+      },
+      {
+        "full_name": "spyboy-productions/CloakQuest3r",
+        "url": "https://github.com/spyboy-productions/CloakQuest3r",
+        "stars": 2233,
+        "desc": "Open-source security research tool for identifying origin IP exposure of websites protected by Cloudflare and similar reverse proxy services.",
+        "updated": "2026-01-06T19:57:54Z"
+      },
+      {
+        "full_name": "TryCatchHCF/Cloakify",
+        "url": "https://github.com/TryCatchHCF/Cloakify",
+        "stars": 1677,
+        "desc": "CloakifyFactory - Data Exfiltration & Infiltration In Plain Sight; Convert any filetype into list of everyday strings, using Text-Based Steganography; Evade DLP/MLS Devices, Defeat Data Whitelisting Controls, Social Engi",
+        "updated": "2020-11-24T05:25:04Z"
+      },
+      {
+        "full_name": "mandatoryprogrammer/thermoptic",
+        "url": "https://github.com/mandatoryprogrammer/thermoptic",
+        "stars": 1039,
+        "desc": "A next-generation HTTP stealth proxy which perfectly cloaks requests as the Chrome browser across all layers of the stack.",
+        "updated": "2026-03-31T00:32:48Z"
+      }
+    ]
+  },
+  "Chameleon Forensics (Android): Assume Adversarial Logical Extraction Forensic Tool": {
+    "query": "Chameleon Forensics",
+    "candidates": [
+      {
+        "full_name": "Ins1ght32/ChameleonAF",
+        "url": "https://github.com/Ins1ght32/ChameleonAF",
+        "stars": 6,
+        "desc": "ChameleonAF is an anti-forensic instrumentation framework designed to support the development, compilation, deployment, and evaluation of Android anti-forensic features.",
+        "updated": "2026-06-14T12:39:01Z"
+      },
+      {
+        "full_name": "imXur/Umbra",
+        "url": "https://github.com/imXur/Umbra",
+        "stars": 4,
+        "desc": "Hide the unseen. UMBRA is an elite steganography suite that turns ordinary images into secure vaults. With a chameleon RGB interface and anti-forensic panic modes, your secrets remain invisible to the naked eye.",
+        "updated": "2026-01-12T15:31:08Z"
+      },
+      {
+        "full_name": "Ins1ght32/Chameleon-Forensics-Android",
+        "url": "https://github.com/Ins1ght32/Chameleon-Forensics-Android",
+        "stars": 2,
+        "desc": "Chameleon Forensics (Android) is an Android logical extraction forensic tool prototype that utilises the concept of Assume Adversarial.",
+        "updated": "2026-07-18T17:54:12Z"
+      },
+      {
+        "full_name": "shubham8217/Chameleon-Cybersecurity-System",
+        "url": "https://github.com/shubham8217/Chameleon-Cybersecurity-System",
+        "stars": 1,
+        "desc": "Chameleon is an AI-powered active defense platform that turns the tables on attackers. It features a Progressive Deception Engine to waste attacker time, real-time ML attack classification (SQLi, XSS), and immutable bloc",
+        "updated": "2025-11-25T17:44:06Z"
+      },
+      {
+        "full_name": "rajpendkalkar123/Chameleon_Honeypot",
+        "url": "https://github.com/rajpendkalkar123/Chameleon_Honeypot",
+        "stars": 0,
+        "desc": "Chameleon: AI-Powered Honeypot System with Blockchain Integrity An intelligent cybersecurity honeypot that detects SQL injection and XSS attacks using machine learning, with blockchain-anchored log integrity and real-tim",
+        "updated": "2025-11-27T11:11:04Z"
+      }
+    ]
+  },
+  "Chef Special: Updates to CSTC - CyberChef-inspired Message Transformator in BurpSuite": {
+    "query": "Chef Special",
+    "candidates": [
+      {
+        "full_name": "danderfer/Comp_Sci_Sem_2",
+        "url": "https://github.com/danderfer/Comp_Sci_Sem_2",
+        "stars": 197,
+        "desc": "According to all known laws of aviation, there is no way that a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway. Because bees don’t care what",
+        "updated": "2023-04-03T17:47:53Z"
+      },
+      {
+        "full_name": "brianhartsock/cookbooks",
+        "url": "https://github.com/brianhartsock/cookbooks",
+        "stars": 2,
+        "desc": "Hartsock's special chef cookbooks",
+        "updated": "2011-09-18T13:59:11Z"
+      },
+      {
+        "full_name": "shevak08/Food-Application",
+        "url": "https://github.com/shevak08/Food-Application",
+        "stars": 2,
+        "desc": "A responsive front-end food application built using HTML, CSS, JavaScript and Bootstrap. The project focuses on creating a modern, user-friendly interface for browsing restaurants, home chefs, special menus, offers, and ",
+        "updated": "2026-06-16T15:46:38Z"
+      },
+      {
+        "full_name": "mohamedEldeeb13/Yummy-food-app",
+        "url": "https://github.com/mohamedEldeeb13/Yummy-food-app",
+        "stars": 2,
+        "desc": "Food ordering app that shows foods based on their category, popular dishes and chef’s specials and it shows description of this recipe, and you can order the recipe that you choose. developed by swift , Uikit",
+        "updated": "2023-08-04T16:50:22Z"
+      },
+      {
+        "full_name": "BobBurns/ChefSpecial",
+        "url": "https://github.com/BobBurns/ChefSpecial",
+        "stars": 1,
+        "desc": "Simple food costing app for iPhone",
+        "updated": "2014-08-09T01:22:18Z"
+      },
+      {
+        "full_name": "taskincelalmert/ChefSpecials",
+        "url": "https://github.com/taskincelalmert/ChefSpecials",
+        "stars": 1,
+        "desc": "",
+        "updated": "2026-06-12T19:45:20Z"
+      }
+    ]
+  },
+  "Cleric: ETW Sandbox and Memory Scanner": {
+    "query": "Cleric",
+    "candidates": [
+      {
+        "full_name": "andrejbauer/clerical",
+        "url": "https://github.com/andrejbauer/clerical",
+        "stars": 56,
+        "desc": "Command-like expressions for real infinite-precision calculations",
+        "updated": "2026-05-09T09:06:02Z"
+      },
+      {
+        "full_name": "flambard/CLERIC",
+        "url": "https://github.com/flambard/CLERIC",
+        "stars": 35,
+        "desc": "Common Lisp Erlang Interface",
+        "updated": "2022-12-31T16:43:50Z"
+      },
+      {
+        "full_name": "RomanticGodVAN/character-Evolution-Dataset",
+        "url": "https://github.com/RomanticGodVAN/character-Evolution-Dataset",
+        "stars": 35,
+        "desc": "This is the largest dataset on the evolution of Chinese characters, containing characters from multiple periods including oracle bone script, bronze inscriptions, Spring and Autumn period characters, Warring States chara",
+        "updated": "2026-07-28T13:29:11Z"
+      },
+      {
+        "full_name": "enricostara/cleric",
+        "url": "https://github.com/enricostara/cleric",
+        "stars": 22,
+        "desc": "C compiler Implemented in C ",
+        "updated": "2025-06-05T20:08:28Z"
+      },
+      {
+        "full_name": "mattearly/DnD_5e_Perfect_Spells",
+        "url": "https://github.com/mattearly/DnD_5e_Perfect_Spells",
+        "stars": 21,
+        "desc": "5th Edition Spells - curated into a json format. also a big list of special woods and metals",
+        "updated": "2023-07-24T06:54:50Z"
+      },
+      {
+        "full_name": "UnearthedArcana/Faiths_and_Powers",
+        "url": "https://github.com/UnearthedArcana/Faiths_and_Powers",
+        "stars": 12,
+        "desc": "Faiths and Powers mod",
+        "updated": "2025-02-22T00:32:11Z"
+      }
+    ]
+  },
+  "Command Line Threat Analyzer": {
+    "query": "Command Line Threat Analyzer",
+    "candidates": [
+      {
+        "full_name": "apex-F/ThreatAnalyzer",
+        "url": "https://github.com/apex-F/ThreatAnalyzer",
+        "stars": 0,
+        "desc": "Cybersecurity Log Analysis and Forensics Tool Create a command-line security analysis system that processes server logs and intrusion detection data from text files, implements pattern recognition for identifying suspici",
+        "updated": "2025-08-14T18:51:33Z"
+      },
+      {
+        "full_name": "Vibhav-XLR8/LogHunter",
+        "url": "https://github.com/Vibhav-XLR8/LogHunter",
+        "stars": 0,
+        "desc": "🔍 Command Line Threat Analyzer — SOAR + AI Security Automation Tool",
+        "updated": "2026-04-01T21:49:00Z"
+      },
+      {
+        "full_name": "mahialjaber/CLI-Threat-Analyzer",
+        "url": "https://github.com/mahialjaber/CLI-Threat-Analyzer",
+        "stars": 0,
+        "desc": "Python command-line security copilot leveraging AI. Instantly parse system logs, analyze threat intelligence reports, and perform automated security file inspection directly from the terminal.",
+        "updated": "2026-08-05T14:19:15Z"
+      },
+      {
+        "full_name": "ValentinDLC/security-log-analyzer",
+        "url": "https://github.com/ValentinDLC/security-log-analyzer",
+        "stars": 0,
+        "desc": "A command-line tool for analyzing security logs, detecting threats, and generating reports",
+        "updated": "2026-07-21T22:43:29Z"
+      },
+      {
+        "full_name": "AtharvaMeherkar/Simple-Log-Analyzer",
+        "url": "https://github.com/AtharvaMeherkar/Simple-Log-Analyzer",
+        "stars": 0,
+        "desc": "A Python command-line tool for basic web server log analysis and threat detection.",
+        "updated": "2025-07-02T19:38:23Z"
+      },
+      {
+        "full_name": "cypher02301/LogSentry-CLI-Security-Analyzer",
+        "url": "https://github.com/cypher02301/LogSentry-CLI-Security-Analyzer",
+        "stars": 0,
+        "desc": "LogSentry is a powerful Python-based command-line tool for analyzing log files and detecting security incidents. It provides comprehensive threat detection capabilities across multiple log formats with beautiful, coloriz",
+        "updated": "2025-07-23T20:01:17Z"
+      }
+    ]
+  },
+  "ConfigManBearPig - Identify, Visualize, and Navigate SCCM Attack Paths in BloodHound": {
+    "query": "ConfigManBearPig",
+    "candidates": [
+      {
+        "full_name": "SpecterOps/ConfigManBearPig",
+        "url": "https://github.com/SpecterOps/ConfigManBearPig",
+        "stars": 133,
+        "desc": "Python collector for adding SCCM attack paths to BloodHound with OpenGraph",
+        "updated": "2026-08-05T05:23:36Z"
+      },
+      {
+        "full_name": "Mayyhem/openhound-collector-common",
+        "url": "https://github.com/Mayyhem/openhound-collector-common",
+        "stars": 4,
+        "desc": "Personal project containing extensions to OpenHound to support my on-prem collectors, ConfigManBearPig and MSSQLHound",
+        "updated": "2026-08-02T05:32:37Z"
+      }
+    ]
+  },
+  "Continuous Threat Modeling in Agentic AI era - tmdd": {
+    "query": "Continuous Threat Modeling in Agentic AI era",
+    "candidates": []
+  },
+  "CrowdSentinel: AI-Orchestrated Threat Hunting Across Unified Security Data Sources": {
+    "query": "CrowdSentinel",
+    "candidates": [
+      {
+        "full_name": "thomasxm/CrowdSentinels-AI-MCP",
+        "url": "https://github.com/thomasxm/CrowdSentinels-AI-MCP",
+        "stars": 204,
+        "desc": "AI-powered threat hunting and incident response MCP server for Elasticsearch/OpenSearch",
+        "updated": "2026-07-19T21:09:49Z"
+      },
+      {
+        "full_name": "thomasxm/crowdsentinel-assets",
+        "url": "https://github.com/thomasxm/crowdsentinel-assets",
+        "stars": 0,
+        "desc": "Static assets for CrowdSentinel",
+        "updated": "2026-03-14T22:48:08Z"
+      },
+      {
+        "full_name": "ANSUJKMEHER/CrowdSentinel",
+        "url": "https://github.com/ANSUJKMEHER/CrowdSentinel",
+        "stars": 0,
+        "desc": "",
+        "updated": "2026-07-25T01:26:32Z"
+      },
+      {
+        "full_name": "SaiSmaran07/CrowdSentinel",
+        "url": "https://github.com/SaiSmaran07/CrowdSentinel",
+        "stars": 0,
+        "desc": "",
+        "updated": "2026-07-29T19:39:55Z"
+      },
+      {
+        "full_name": "KadaliSana/CrowdSentinel",
+        "url": "https://github.com/KadaliSana/CrowdSentinel",
+        "stars": 0,
+        "desc": "Yantra Submission",
+        "updated": "2026-04-02T14:19:25Z"
+      },
+      {
+        "full_name": "Tarun-Choudhary-1/CrowdSentinel_MajorProject",
+        "url": "https://github.com/Tarun-Choudhary-1/CrowdSentinel_MajorProject",
+        "stars": 0,
+        "desc": "CrowdSentinel is a real-time crowd analytics and stampede risk detection system that combines computer vision, object detection, tracking, density estimation, and motion analysis to identify potentially dangerous crowd s",
+        "updated": "2026-06-03T05:05:33Z"
+      }
+    ]
+  },
+  "CyberArkHound": {
+    "query": "CyberArkHound",
+    "candidates": [
+      {
+        "full_name": "jazofra/CyberArkHound",
+        "url": "https://github.com/jazofra/CyberArkHound",
+        "stars": 37,
+        "desc": "Export CyberArk PVWA data (users, groups, safes, accounts and permissions) into a BloodHound-compatible OpenGraph JSON file for security analysis and attack path visualization.",
+        "updated": "2026-07-30T08:30:53Z"
+      }
+    ]
+  },
+  "Dradis Framework: Intelligent Automation for collaboration and reporting": {
+    "query": "Dradis Framework",
+    "candidates": [
+      {
+        "full_name": "dradis/dradis-ce",
+        "url": "https://github.com/dradis/dradis-ce",
+        "stars": 834,
+        "desc": "Dradis Framework: Collaboration and reporting for IT Security teams",
+        "updated": "2026-08-06T11:57:25Z"
+      },
+      {
+        "full_name": "dradis/dradis-burp",
+        "url": "https://github.com/dradis/dradis-burp",
+        "stars": 13,
+        "desc": "Burp Suite plugin for the Dradis Framework",
+        "updated": "2026-08-04T08:29:23Z"
+      },
+      {
+        "full_name": "dradis/dradis-openvas",
+        "url": "https://github.com/dradis/dradis-openvas",
+        "stars": 10,
+        "desc": "OpenVAS plugin for the Dradis Framework",
+        "updated": "2026-08-04T08:34:02Z"
+      },
+      {
+        "full_name": "dradis/dradisguides",
+        "url": "https://github.com/dradis/dradisguides",
+        "stars": 9,
+        "desc": "Dradis Framework guides and documentation",
+        "updated": "2017-01-27T16:40:36Z"
+      },
+      {
+        "full_name": "dradis/burp-dradis",
+        "url": "https://github.com/dradis/burp-dradis",
+        "stars": 9,
+        "desc": "Dradis Framework extension for Burp Suite",
+        "updated": "2024-01-31T08:28:47Z"
+      },
+      {
+        "full_name": "dradis/dradis-metasploit",
+        "url": "https://github.com/dradis/dradis-metasploit",
+        "stars": 7,
+        "desc": "Metasploit Framework plugin for the Dradis Framework",
+        "updated": "2026-08-04T08:32:42Z"
+      }
+    ]
+  },
+  "EMBA – The product security analysis framework": {
+    "query": "EMBA",
+    "candidates": [
+      {
+        "full_name": "embassy-rs/embassy",
+        "url": "https://github.com/embassy-rs/embassy",
+        "stars": 9667,
+        "desc": "Modern embedded framework, using Rust and async.",
+        "updated": "2026-08-06T11:57:24Z"
+      },
+      {
+        "full_name": "embabel/embabel-agent",
+        "url": "https://github.com/embabel/embabel-agent",
+        "stars": 3980,
+        "desc": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
+        "updated": "2026-08-05T23:11:20Z"
+      },
+      {
+        "full_name": "embarklabs/embark",
+        "url": "https://github.com/embarklabs/embark",
+        "stars": 3772,
+        "desc": "Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms",
+        "updated": "2024-07-30T14:41:38Z"
+      },
+      {
+        "full_name": "e-m-b-a/emba",
+        "url": "https://github.com/e-m-b-a/emba",
+        "stars": 3587,
+        "desc": "EMBA - The firmware security analyzer",
+        "updated": "2026-08-03T13:54:14Z"
+      },
+      {
+        "full_name": "oantolin/embark",
+        "url": "https://github.com/oantolin/embark",
+        "stars": 1218,
+        "desc": "Emacs Mini-Buffer Actions Rooted in Keymaps",
+        "updated": "2026-06-10T03:02:15Z"
+      },
+      {
+        "full_name": "envoy/Embassy",
+        "url": "https://github.com/envoy/Embassy",
+        "stars": 618,
+        "desc": "Super lightweight async HTTP server library in pure Swift runs in iOS / MacOS / Linux",
+        "updated": "2025-07-07T23:50:06Z"
+      }
+    ]
+  },
+  "EMBArk – Firmware Analysis for the Enterprise": {
+    "query": "EMBArk",
+    "candidates": [
+      {
+        "full_name": "ethereumbook/ethereumbook",
+        "url": "https://github.com/ethereumbook/ethereumbook",
+        "stars": 21518,
+        "desc": "Mastering Ethereum: 2nd Edition, by Andreas M. Antonopoulos, Gavin Wood, Carlo Parisi, Alessandro Mazza, Niccolò Pozzolini",
+        "updated": "2026-05-13T14:04:25Z"
+      },
+      {
+        "full_name": "embarklabs/embark",
+        "url": "https://github.com/embarklabs/embark",
+        "stars": 3772,
+        "desc": "Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms",
+        "updated": "2024-07-30T14:41:38Z"
+      },
+      {
+        "full_name": "oantolin/embark",
+        "url": "https://github.com/oantolin/embark",
+        "stars": 1218,
+        "desc": "Emacs Mini-Buffer Actions Rooted in Keymaps",
+        "updated": "2026-06-10T03:02:15Z"
+      },
+      {
+        "full_name": "EmbarkStudios/rust-ecosystem",
+        "url": "https://github.com/EmbarkStudios/rust-ecosystem",
+        "stars": 1027,
+        "desc": "Rust wants & tracking for Embark 🦀",
+        "updated": "2025-01-22T14:10:57Z"
+      },
+      {
+        "full_name": "emacs-citar/citar",
+        "url": "https://github.com/emacs-citar/citar",
+        "stars": 633,
+        "desc": "Emacs package to quickly find and act on bibliographic references, and edit org, markdown, and latex academic documents.",
+        "updated": "2026-07-06T12:25:30Z"
+      },
+      {
+        "full_name": "EmbarkStudios/blender-tools",
+        "url": "https://github.com/EmbarkStudios/blender-tools",
+        "stars": 458,
+        "desc": "🐵 Embark Addon for Blender",
+        "updated": "2021-01-27T08:50:22Z"
+      }
+    ]
+  },
+  "Emulate cloud-native attacks with Stratus Red Team": {
+    "query": "Emulate cloud-native attacks with Stratus Red Team",
+    "candidates": []
+  },
+  "FAInd my XPC: Automated Discovery of Privilege Escalation via macOS XPC Trust Boundaries - powered by LLM": {
+    "query": "FAInd my XPC",
+    "candidates": [
+      {
+        "full_name": "XMCyber/FAInd-my-xpc",
+        "url": "https://github.com/XMCyber/FAInd-my-xpc",
+        "stars": 0,
+        "desc": "",
+        "updated": "2026-08-04T17:57:52Z"
+      }
+    ]
+  },
+  "From Breakthrough to Completeness: arkdecompiler - The Decompiler for HarmonyOS NEXT": {
+    "query": "From Breakthrough to Completeness",
+    "candidates": [
+      {
+        "full_name": "Aryia-Behroziuan/Other-sources",
+        "url": "https://github.com/Aryia-Behroziuan/Other-sources",
+        "stars": 41,
+        "desc": "Asada, M.; Hosoda, K.; Kuniyoshi, Y.; Ishiguro, H.; Inui, T.; Yoshikawa, Y.; Ogino, M.; Yoshida, C. (2009). \"Cognitive developmental robotics: a survey\". IEEE Transactions on Autonomous Mental Development. 1 (1): 12–34. ",
+        "updated": "2020-10-28T18:04:43Z"
+      },
+      {
+        "full_name": "HoneyBeebus/loan_dolphins",
+        "url": "https://github.com/HoneyBeebus/loan_dolphins",
+        "stars": 4,
+        "desc": "1. Enhancements to Oportun FAIR Tool Background About Oportun: Since we opened our doors in 2005, we have worked hard every day to serve the approximately 100 million people in the United States who are typically shut ou",
+        "updated": "2020-12-17T18:17:51Z"
+      },
+      {
+        "full_name": "DART-0050/Dartvolution",
+        "url": "https://github.com/DART-0050/Dartvolution",
+        "stars": 1,
+        "desc": "This repo documents my hands-on journey from a complete beginner to a confident AIML architect. Expect real projects, failed experiments, breakthrough moments, and everything in between.",
+        "updated": "2026-02-06T15:33:15Z"
+      },
+      {
+        "full_name": "Stephen89-debug/SciPyMastery-From-Basics-to-Breakthroughs",
+        "url": "https://github.com/Stephen89-debug/SciPyMastery-From-Basics-to-Breakthroughs",
+        "stars": 0,
+        "desc": "\"SciPyMastery: From Basics to Breakthroughs\" is a complete guide to mastering SciPy, covering core topics like optimization, signal processing, and solving equations, with real-world applications and examples. Ideal for ",
+        "updated": "2025-02-03T17:00:15Z"
+      },
+      {
+        "full_name": "hanmediasoft/cancerplatform",
+        "url": "https://github.com/hanmediasoft/cancerplatform",
+        "stars": 0,
+        "desc": "Breakthrough research. Free lodging near treatment. A 24/7/365 live helpline. Rides to treatment. This is far from a complete list, but it makes one thing clear. When it comes to cancer, we are the only organization atta",
+        "updated": "2018-05-07T15:04:12Z"
+      },
+      {
+        "full_name": "rprandya/HACK-AID-PLAST-IS-THE-NEW-WAY-TO-INCREASE-SPEED-AND-IMPROVE-QUALITY-OF-PLASTERING",
+        "url": "https://github.com/rprandya/HACK-AID-PLAST-IS-THE-NEW-WAY-TO-INCREASE-SPEED-AND-IMPROVE-QUALITY-OF-PLASTERING",
+        "stars": 0,
+        "desc": "Generally, it is very tedious and time-consuming to apply cement plaster on smooth concrete surfaces, generally on account of poor interfacial bonding.  Before cement plastering is done, concrete slabs (soffits or ceilin",
+        "updated": "2021-07-06T07:03:53Z"
+      }
+    ]
+  },
+  "Ghost in the IDE": {
+    "query": "Ghost in the IDE",
+    "candidates": [
+      {
+        "full_name": "RickeyEstes/Identify_Particle_Type",
+        "url": "https://github.com/RickeyEstes/Identify_Particle_Type",
+        "stars": 1,
+        "desc": "Particle Classification. The purpose of this project is to create a ANN using the Keras libraries to learn to identify six different types of particles, “Electron”, “Muon”, “Kaon”, “Proton”, “Pion”, and “Ghost” (false de",
+        "updated": "2018-06-22T06:18:43Z"
+      },
+      {
+        "full_name": "ValchukDmitry/ghost-in-the-cell",
+        "url": "https://github.com/ValchukDmitry/ghost-in-the-cell",
+        "stars": 0,
+        "desc": "Strategy for ghost in the cell game on codingame platform. (https://www.codingame.com/ide/puzzle/ghost-in-the-cell)",
+        "updated": "2018-04-10T19:40:25Z"
+      },
+      {
+        "full_name": "vasu-devs/GhostSync",
+        "url": "https://github.com/vasu-devs/GhostSync",
+        "stars": 0,
+        "desc": "Control Antigravity IDE remotely via Telegram - from anywhere in the world.",
+        "updated": "2026-01-31T15:42:03Z"
+      },
+      {
+        "full_name": "TheWalkingSea/phasmophobia-ghost-identifier",
+        "url": "https://github.com/TheWalkingSea/phasmophobia-ghost-identifier",
+        "stars": 0,
+        "desc": "Used a server that would determine when you said a ghosts name, and immediately displayed the entire description of the ghost on a webpage in which you could read. This was super useful when playing phasmophobia in which",
+        "updated": "2023-11-27T03:28:40Z"
+      },
+      {
+        "full_name": "mrdirno/digital-native-metafictional-memory-identity",
+        "url": "https://github.com/mrdirno/digital-native-metafictional-memory-identity",
+        "stars": 0,
+        "desc": "The Memory Emporium - In a world where memories are currency, one man discovers a ghost in the machine that could rewrite ...",
+        "updated": "2026-02-10T20:52:43Z"
+      },
+      {
+        "full_name": "maksmas/cg-gic",
+        "url": "https://github.com/maksmas/cg-gic",
+        "stars": 0,
+        "desc": "My java bot to https://www.codingame.com/ide/challenge/ghost-in-the-cell",
+        "updated": "2017-03-10T08:05:56Z"
+      }
+    ]
+  },
+  "Ghostwriter": {
+    "query": "Ghostwriter",
+    "candidates": [
+      {
+        "full_name": "KDE/ghostwriter",
+        "url": "https://github.com/KDE/ghostwriter",
+        "stars": 4946,
+        "desc": "Text editor for Markdown",
+        "updated": "2026-07-31T08:02:49Z"
+      },
+      {
+        "full_name": "GhostManager/Ghostwriter",
+        "url": "https://github.com/GhostManager/Ghostwriter",
+        "stars": 1876,
+        "desc": "The SpecterOps project management and reporting engine",
+        "updated": "2026-08-02T05:18:40Z"
+      },
+      {
+        "full_name": "roryg/ghostwriter",
+        "url": "https://github.com/roryg/ghostwriter",
+        "stars": 860,
+        "desc": "A simple AJAX driven Ghost theme.",
+        "updated": "2020-01-27T15:09:38Z"
+      },
+      {
+        "full_name": "awwaiid/ghostwriter",
+        "url": "https://github.com/awwaiid/ghostwriter",
+        "stars": 549,
+        "desc": "Use the reMarkable2 as an interface to vision-LLMs (ChatGPT, Claude, Gemini). Ghost in the machine!",
+        "updated": "2026-07-10T12:35:11Z"
+      },
+      {
+        "full_name": "superzhang21/ghostwriter",
+        "url": "https://github.com/superzhang21/ghostwriter",
+        "stars": 301,
+        "desc": "影子作家（ghostwriter），一些人的写作或语言特征。",
+        "updated": "2026-07-29T00:23:29Z"
+      },
+      {
+        "full_name": "Guido1Alessandro1Trevisan/linkedin-ghostwriter",
+        "url": "https://github.com/Guido1Alessandro1Trevisan/linkedin-ghostwriter",
+        "stars": 110,
+        "desc": "Linkedin Ghostwriting agent powered by Langgraph",
+        "updated": "2025-04-04T16:26:21Z"
+      }
+    ]
+  },
+  "GolemHalt: A Deterministic Reference Monitor for AI Coding Agents": {
+    "query": "GolemHalt",
+    "candidates": []
+  },
+  "Hecate: a trivial UART tool": {
+    "query": "Hecate",
+    "candidates": [
+      {
+        "full_name": "evanmiller/hecate",
+        "url": "https://github.com/evanmiller/hecate",
+        "stars": 675,
+        "desc": "🔥 The Hex Editor From Hell! 🔥",
+        "updated": "2022-05-03T00:34:32Z"
+      },
+      {
+        "full_name": "yahoo/hecate",
+        "url": "https://github.com/yahoo/hecate",
+        "stars": 496,
+        "desc": "Automagically generate thumbnails, animated GIFs, and summaries from videos",
+        "updated": "2023-05-20T20:10:42Z"
+      },
+      {
+        "full_name": "mapbox/Hecate",
+        "url": "https://github.com/mapbox/Hecate",
+        "stars": 259,
+        "desc": "Fast Geospatial Feature Storage API",
+        "updated": "2021-10-09T14:26:35Z"
+      },
+      {
+        "full_name": "Nurysso/Hecate",
+        "url": "https://github.com/Nurysso/Hecate",
+        "stars": 115,
+        "desc": "Experience hyprland like never before",
+        "updated": "2026-07-31T19:40:55Z"
+      },
+      {
+        "full_name": "Whispergate/Hecate",
+        "url": "https://github.com/Whispergate/Hecate",
+        "stars": 81,
+        "desc": "A modern alternative Web-UI for the Mythic Command and Control Server",
+        "updated": "2026-07-03T18:10:37Z"
+      },
+      {
+        "full_name": "DRMacIver/hecate",
+        "url": "https://github.com/DRMacIver/hecate",
+        "stars": 46,
+        "desc": "A terrible way of testing terminal applications",
+        "updated": "2020-03-20T04:30:31Z"
+      }
+    ]
+  },
+  "HoneyMCP: A Deception Security Layer for MCP Servers": {
+    "query": "HoneyMCP",
+    "candidates": [
+      {
+        "full_name": "barvhaim/HoneyMCP",
+        "url": "https://github.com/barvhaim/HoneyMCP",
+        "stars": 21,
+        "desc": "A Deception Security Layer for MCP Servers. It injects \"ghost tools\" (fake security-sensitive tools) that act as honeypots.",
+        "updated": "2026-08-03T14:16:01Z"
+      },
+      {
+        "full_name": "kosiorkosa47/honeymcp",
+        "url": "https://github.com/kosiorkosa47/honeymcp",
+        "stars": 2,
+        "desc": "Open-source honeypot for MCP (Model Context Protocol) servers. Collects threat intel on attacks against the AI agent ecosystem.",
+        "updated": "2026-07-19T19:42:36Z"
+      },
+      {
+        "full_name": "asterosHQ/HoneyMCP",
+        "url": "https://github.com/asterosHQ/HoneyMCP",
+        "stars": 1,
+        "desc": "MCP Server Honeypot",
+        "updated": "2026-05-06T23:56:54Z"
+      },
+      {
+        "full_name": "kosiorkosa47/honeymcp-dev",
+        "url": "https://github.com/kosiorkosa47/honeymcp-dev",
+        "stars": 0,
+        "desc": "",
+        "updated": "2026-04-18T19:11:40Z"
+      }
+    ]
+  },
+  "ICSForge™: OT/ICS Security Coverage Validation Platform": {
+    "query": "ICSForge",
+    "candidates": [
+      {
+        "full_name": "ICSForge/ICSForge",
+        "url": "https://github.com/ICSForge/ICSForge",
+        "stars": 11,
+        "desc": "ICSForge™ is an open-source OT/ICS security coverage validation platform, designed to help defenders, SOC teams, and OT security engineers validate detection, visibility, and readiness against real-world industrial attac",
+        "updated": "2026-07-08T13:07:34Z"
+      },
+      {
+        "full_name": "munpao/icsforge",
+        "url": "https://github.com/munpao/icsforge",
+        "stars": 2,
+        "desc": "ICS/SCADA Penetration Testing Toolkit — Modbus, EtherNet/IP, S7com",
+        "updated": "2026-06-21T13:41:35Z"
+      },
+      {
+        "full_name": "ICSForge/ICSForge.github.io",
+        "url": "https://github.com/ICSForge/ICSForge.github.io",
+        "stars": 0,
+        "desc": "Project webpage",
+        "updated": "2026-07-08T12:52:41Z"
+      }
+    ]
+  },
+  "INFLEX: Cross-Format Malware Analysis and Correlation Framework": {
+    "query": "INFLEX",
+    "candidates": [
+      {
+        "full_name": "nurugger07/inflex",
+        "url": "https://github.com/nurugger07/inflex",
+        "stars": 384,
+        "desc": "An Inflector library for Elixir",
+        "updated": "2024-04-12T20:25:20Z"
+      },
+      {
+        "full_name": "jtauber/greek-inflexion",
+        "url": "https://github.com/jtauber/greek-inflexion",
+        "stars": 49,
+        "desc": "Python library for generating (and analyzing) Ancient Greek inflectional paradigms",
+        "updated": "2023-01-21T21:34:51Z"
+      },
+      {
+        "full_name": "chrisdone-archive/inflex",
+        "url": "https://github.com/chrisdone-archive/inflex",
+        "stars": 29,
+        "desc": "Pure, statically typed, content-addressable, programming language for spreadsheet use",
+        "updated": "2023-05-02T16:23:58Z"
+      },
+      {
+        "full_name": "inflexa-ai/inflexa",
+        "url": "https://github.com/inflexa-ai/inflexa",
+        "stars": 28,
+        "desc": "Local-first CLI for reproducible biological analysis, with provenance tracked on every step.",
+        "updated": "2026-08-06T13:05:32Z"
+      },
+      {
+        "full_name": "TeamInflex/InflexMusicBot",
+        "url": "https://github.com/TeamInflex/InflexMusicBot",
+        "stars": 27,
+        "desc": "Telegram Group Calls Streaming Bot With Some Useful Features, Written In Python With Pyrogram And Py-Tgcalls. Supporting Platforms Like YouTube, Spotify, Resso, AppleMusic, Soundcloud And M3u8 Links",
+        "updated": "2025-06-06T17:51:20Z"
+      },
+      {
+        "full_name": "borisguery/Inflexible",
+        "url": "https://github.com/borisguery/Inflexible",
+        "stars": 19,
+        "desc": "",
+        "updated": "2013-06-17T12:51:26Z"
+      }
+    ]
+  },
+  "Intercept.js: Context-Aware YARA for Runtime Detection In JavaScript Environments": {
+    "query": "Intercept.js",
+    "candidates": [
+      {
+        "full_name": "mswjs/interceptors",
+        "url": "https://github.com/mswjs/interceptors",
+        "stars": 677,
+        "desc": "Low-level network interception library for Node.js.",
+        "updated": "2026-07-25T13:17:26Z"
+      },
+      {
+        "full_name": "moll/node-mitm",
+        "url": "https://github.com/moll/node-mitm",
+        "stars": 660,
+        "desc": "Intercept and mock outgoing Node.js network TCP connections and HTTP requests for testing. Intercepts and gives you a Net.Socket, Http.IncomingMessage and Http.ServerResponse to test and respond with. Super useful when t",
+        "updated": "2024-08-26T05:13:24Z"
+      },
+      {
+        "full_name": "algolia/faux-jax",
+        "url": "https://github.com/algolia/faux-jax",
+        "stars": 95,
+        "desc": "NO MORE MAINTAINED: Intercept and respond to requests in the browser (AJAX) and Node.js (http(s) module)",
+        "updated": "2019-02-28T08:45:09Z"
+      },
+      {
+        "full_name": "easilycoder/HybridCache",
+        "url": "https://github.com/easilycoder/HybridCache",
+        "stars": 65,
+        "desc": "a library which can intercept the loading process of webpage resource and cache all the resource files we are interested, just like css files,js files, images files ,html files and so on.So we can share the cache between",
+        "updated": "2018-07-18T03:02:37Z"
+      },
+      {
+        "full_name": "akhila-ariyachandra/nextjs-app-route-interception",
+        "url": "https://github.com/akhila-ariyachandra/nextjs-app-route-interception",
+        "stars": 41,
+        "desc": "An example showing Next.js 13's Intercepting Routes feature with modals.",
+        "updated": "2024-04-27T13:04:05Z"
+      },
+      {
+        "full_name": "tsyd/proxy-tamper",
+        "url": "https://github.com/tsyd/proxy-tamper",
+        "stars": 40,
+        "desc": "A HTTP proxy library for node.js that allows for selective requests and responses to be intercepted and tampered with.",
+        "updated": "2017-11-14T23:21:56Z"
+      }
+    ]
+  },
+  "JS-Tap v3: JavaScript Post-Exploitation Moves to the Endpoint": {
+    "query": "JS-Tap v3",
+    "candidates": []
+  },
+  "KEIP: Kernel-Enforced Install-Time Policies": {
+    "query": "KEIP",
+    "candidates": [
+      {
+        "full_name": "Otsmane-Ahmed/KEIP",
+        "url": "https://github.com/Otsmane-Ahmed/KEIP",
+        "stars": 63,
+        "desc": "Kernel-Enforced Install-Time Policies (KEIP): An eBPF/LSM based security tool that detects and blocks malicious network activity during pip install.Kernel-Enforced Install-Time Policies (KEIP): An eBPF/LSM based security",
+        "updated": "2026-06-01T23:57:49Z"
+      },
+      {
+        "full_name": "hosizoraru/KeiPix",
+        "url": "https://github.com/hosizoraru/KeiPix",
+        "stars": 5,
+        "desc": "Native AppKit/UIKit-first Pixiv client for macOS, with SwiftUI glue and visual QA.",
+        "updated": "2026-06-22T05:55:37Z"
+      },
+      {
+        "full_name": "kei-kmj/KeiPyDB",
+        "url": "https://github.com/kei-kmj/KeiPyDB",
+        "stars": 5,
+        "desc": "",
+        "updated": "2026-04-19T04:53:04Z"
+      },
+      {
+        "full_name": "cassuto/kEIPM",
+        "url": "https://github.com/cassuto/kEIPM",
+        "stars": 3,
+        "desc": "Kernel-level ELF Integrity Protection Module for Deepin",
+        "updated": "2020-08-26T16:59:52Z"
+      },
+      {
+        "full_name": "Chenskkk/keipua",
+        "url": "https://github.com/Chenskkk/keipua",
+        "stars": 2,
+        "desc": "",
+        "updated": "2020-07-03T05:15:18Z"
+      },
+      {
+        "full_name": "ptkr0/KeiPai",
+        "url": "https://github.com/ptkr0/KeiPai",
+        "stars": 2,
+        "desc": "KeiPai is a web application as a social networking site for game developers and influencers.",
+        "updated": "2025-05-29T18:54:44Z"
+      }
+    ]
+  },
+  "Keychecker : SSH Key based attack tool for DVCS Systems": {
+    "query": "Keychecker",
+    "candidates": [
+      {
+        "full_name": "Yoo1tic/Gemini-Keychecker",
+        "url": "https://github.com/Yoo1tic/Gemini-Keychecker",
+        "stars": 146,
+        "desc": "A high-performance tool to validate Google Gemini API keys with batch processing capabilities.",
+        "updated": "2026-04-02T08:48:12Z"
+      },
+      {
+        "full_name": "cunnymessiah/keychecker",
+        "url": "https://github.com/cunnymessiah/keychecker",
+        "stars": 88,
+        "desc": "a key checker for various AI services",
+        "updated": "2025-11-15T20:06:25Z"
+      },
+      {
+        "full_name": "cyfinoid/keychecker",
+        "url": "https://github.com/cyfinoid/keychecker",
+        "stars": 8,
+        "desc": "",
+        "updated": "2026-08-04T15:23:53Z"
+      },
+      {
+        "full_name": "OleksandrChekalenko/KeyChecker",
+        "url": "https://github.com/OleksandrChekalenko/KeyChecker",
+        "stars": 2,
+        "desc": "Java FX application for check correct CD-keys for games",
+        "updated": "2019-11-14T18:40:35Z"
+      },
+      {
+        "full_name": "jds2001/keychecker",
+        "url": "https://github.com/jds2001/keychecker",
+        "stars": 1,
+        "desc": "",
+        "updated": "2022-01-30T22:46:58Z"
+      },
+      {
+        "full_name": "9ssstestt/keychecker",
+        "url": "https://github.com/9ssstestt/keychecker",
+        "stars": 1,
+        "desc": "A simple program that displays the id of the pressed key or mouse button.",
+        "updated": "2026-05-12T15:09:18Z"
+      }
+    ]
+  },
+  "LLM Hacking 101": {
+    "query": "LLM Hacking 101",
+    "candidates": [
+      {
+        "full_name": "RootInj3c/LLM-Playground",
+        "url": "https://github.com/RootInj3c/LLM-Playground",
+        "stars": 3,
+        "desc": "LLM Hacking 101 - Training platform used during my workshop @BlackHat Arsenal 2026",
+        "updated": "2026-07-18T00:13:32Z"
+      }
+    ]
+  },
+  "LoRaCraft – Crafting Attacks for LoRaWAN Networks": {
+    "query": "LoRaCraft",
+    "candidates": [
+      {
+        "full_name": "pinarsadioglu/loracraft",
+        "url": "https://github.com/pinarsadioglu/loracraft",
+        "stars": 2,
+        "desc": "LoRaWAN offensive security testing framework: protocol attacks, RF-layer testing, and target fingerprinting",
+        "updated": "2026-08-04T20:03:01Z"
+      },
+      {
+        "full_name": "codesmax/loracraft",
+        "url": "https://github.com/codesmax/loracraft",
+        "stars": 1,
+        "desc": "CLI tool for automated character LoRA training",
+        "updated": "2026-06-18T05:07:39Z"
+      },
+      {
+        "full_name": "PPierzc/loracraft",
+        "url": "https://github.com/PPierzc/loracraft",
+        "stars": 0,
+        "desc": "Brainhack 2024 ",
+        "updated": "2024-03-17T12:52:58Z"
+      },
+      {
+        "full_name": "XarosElite/LoraCrafty",
+        "url": "https://github.com/XarosElite/LoraCrafty",
+        "stars": 0,
+        "desc": "A playground for messing with Lora and ESP32 boards",
+        "updated": "2025-10-12T23:14:52Z"
+      },
+      {
+        "full_name": "kz31018/LoraCraft",
+        "url": "https://github.com/kz31018/LoraCraft",
+        "stars": 0,
+        "desc": "初心者向けのWindows用SDXL LoRA作成ツール",
+        "updated": "2026-08-02T10:21:03Z"
+      }
+    ]
+  },
+  "LogonTracer v2: Faster Malicious Windows Logon Investigations with AI Agent": {
+    "query": "LogonTracer v2",
+    "candidates": []
+  },
+  "MCParasite: Universal MCP Worm Security Testing Framework": {
+    "query": "MCParasite",
+    "candidates": [
+      {
+        "full_name": "MCParasite/mcparasite",
+        "url": "https://github.com/MCParasite/mcparasite",
+        "stars": 9,
+        "desc": "Universal MCP Context Worm Security Testing Framework",
+        "updated": "2026-05-21T11:33:05Z"
+      }
+    ]
+  },
+  "MEM-SBOM: Runtime SBOM Generation from Python Process Memory": {
+    "query": "MEM-SBOM",
+    "candidates": [
+      {
+        "full_name": "HalaAli198/MEM-SBOM",
+        "url": "https://github.com/HalaAli198/MEM-SBOM",
+        "stars": 5,
+        "desc": "Memory forensics tool to generate runtime SBOMs from Python memory",
+        "updated": "2026-07-17T20:09:42Z"
+      },
+      {
+        "full_name": "RusinatorDASR/SBomberProject-Memento-RAII-PIMPL",
+        "url": "https://github.com/RusinatorDASR/SBomberProject-Memento-RAII-PIMPL",
+        "stars": 0,
+        "desc": "",
+        "updated": "2022-09-08T10:17:54Z"
+      }
+    ]
+  },
+  "MLOKit: MLOps Attack Toolkit": {
+    "query": "MLOKit",
+    "candidates": [
+      {
+        "full_name": "h4wkst3r/MLOKit",
+        "url": "https://github.com/h4wkst3r/MLOKit",
+        "stars": 28,
+        "desc": "MLOps Attack Toolkit",
+        "updated": "2026-07-27T12:35:56Z"
+      },
+      {
+        "full_name": "ThanniKudam/PyMLOKit",
+        "url": "https://github.com/ThanniKudam/PyMLOKit",
+        "stars": 16,
+        "desc": "MLOps Attack Toolkit in Python",
+        "updated": "2026-02-20T06:53:30Z"
+      },
+      {
+        "full_name": "JegorMlokit/eindopdracht-InleidingProgrameren-JegorMlokit",
+        "url": "https://github.com/JegorMlokit/eindopdracht-InleidingProgrameren-JegorMlokit",
+        "stars": 0,
+        "desc": "",
+        "updated": "2024-12-04T12:57:10Z"
+      },
+      {
+        "full_name": "JegorMlokit/Duurzaam-initiatief-JegorMlokit",
+        "url": "https://github.com/JegorMlokit/Duurzaam-initiatief-JegorMlokit",
+        "stars": 0,
+        "desc": "",
+        "updated": "2024-02-04T12:37:41Z"
+      }
+    ]
+  },
+  "MORF - Mobile Reconnaissance Framework": {
+    "query": "MORF",
+    "candidates": [
+      {
+        "full_name": "joelambert/morf",
+        "url": "https://github.com/joelambert/morf",
+        "stars": 507,
+        "desc": "A Javascript work-around for hardware accelerated CSS3 transitions with custom easing functions",
+        "updated": "2014-01-05T20:39:02Z"
+      },
+      {
+        "full_name": "digital-chemistry-laboratory/morfeus",
+        "url": "https://github.com/digital-chemistry-laboratory/morfeus",
+        "stars": 234,
+        "desc": "A Python package for calculating molecular features",
+        "updated": "2026-08-05T14:50:42Z"
+      },
+      {
+        "full_name": "aalto-speech/morfessor",
+        "url": "https://github.com/aalto-speech/morfessor",
+        "stars": 207,
+        "desc": "Morfessor is a tool for unsupervised and semi-supervised morphological segmentation",
+        "updated": "2020-10-06T14:39:42Z"
+      },
+      {
+        "full_name": "morfologik/morfologik-stemming",
+        "url": "https://github.com/morfologik/morfologik-stemming",
+        "stars": 204,
+        "desc": "Tools for finite state automata construction and dictionary-based morphological dictionaries. Includes Polish stemming dictionary.",
+        "updated": "2026-06-10T09:50:33Z"
+      },
+      {
+        "full_name": "allegro/elasticsearch-analysis-morfologik",
+        "url": "https://github.com/allegro/elasticsearch-analysis-morfologik",
+        "stars": 99,
+        "desc": "Morfologik Polish Lemmatizer plugin for Elasticsearch",
+        "updated": "2026-07-23T11:04:43Z"
+      },
+      {
+        "full_name": "amrudesh1/morf",
+        "url": "https://github.com/amrudesh1/morf",
+        "stars": 81,
+        "desc": "Mobile Reconnaissance Framework is a powerful, lightweight and platform-independent offensive mobile security tool designed to help hackers and developers identify and address sensitive information within mobile applicat",
+        "updated": "2026-07-24T14:32:48Z"
+      }
+    ]
+  },
+  "MSCodePhish - Dynamic Device Code Phishing Framework": {
+    "query": "MSCodePhish",
+    "candidates": [
+      {
+        "full_name": "TROUBLE-1/MSCodePhish",
+        "url": "https://github.com/TROUBLE-1/MSCodePhish",
+        "stars": 13,
+        "desc": "Dynamic Device Phishing tool that creates a new code only when user clicks on link or email is sent.",
+        "updated": "2026-07-24T08:33:22Z"
+      }
+    ]
+  },
+  "MSSQLHound - Identify, Visualize, and Navigate MSSQL Attack Paths in BloodHound": {
+    "query": "MSSQLHound",
+    "candidates": [
+      {
+        "full_name": "SpecterOps/MSSQLHound",
+        "url": "https://github.com/SpecterOps/MSSQLHound",
+        "stars": 340,
+        "desc": "Go (formerly PowerShell) collector for adding MSSQL attack paths to BloodHound with OpenGraph",
+        "updated": "2026-07-10T05:24:08Z"
+      },
+      {
+        "full_name": "Mayyhem/openhound-collector-common",
+        "url": "https://github.com/Mayyhem/openhound-collector-common",
+        "stars": 4,
+        "desc": "Personal project containing extensions to OpenHound to support my on-prem collectors, ConfigManBearPig and MSSQLHound",
+        "updated": "2026-08-02T05:32:37Z"
+      }
+    ]
+  },
+  "MachStealer:One Pipeline Behind Every macOS Infostealer": {
+    "query": "MachStealer",
+    "candidates": [
+      {
+        "full_name": "ultra-supara/MachStealer",
+        "url": "https://github.com/ultra-supara/MachStealer",
+        "stars": 22,
+        "desc": "One Pipeline Behind Every macOS Infostealer",
+        "updated": "2026-08-05T15:05:58Z"
+      }
+    ]
+  },
+  "Mecha Hayabusa by Yamato Security": {
+    "query": "Mecha Hayabusa by Yamato Security",
+    "candidates": []
+  },
+  "Medaudit, an AI assisted Tool for Auditing Hospital Networks and Pentesting Medical Devices": {
+    "query": "Medaudit  an AI assisted Tool for Auditing Hospital Networks and Pentesting Medical Devices",
+    "candidates": []
+  },
+  "Nemesis 2.2": {
+    "query": "Nemesis 2.2",
+    "candidates": [
+      {
+        "full_name": "simv0lofficial/supremacy_csgo_2019-2020",
+        "url": "https://github.com/simv0lofficial/supremacy_csgo_2019-2020",
+        "stars": 11,
+        "desc": "reworked nemesis.idb for 13731 & 13764 CS:GO builds",
+        "updated": "2025-11-27T05:51:15Z"
+      },
+      {
+        "full_name": "tmars-iscteiul/ES2-2018-LIGE-PL-82",
+        "url": "https://github.com/tmars-iscteiul/ES2-2018-LIGE-PL-82",
+        "stars": 1,
+        "desc": "Nêmesis - Decision Support and Optimization Software",
+        "updated": "2018-05-28T17:29:28Z"
+      }
+    ]
+  },
+  "Nogitsune: eBPF-Based Anti-VM Detection for Linux Malware Analysis": {
+    "query": "Nogitsune",
+    "candidates": [
+      {
+        "full_name": "nogitsune09/nogitsune09",
+        "url": "https://github.com/nogitsune09/nogitsune09",
+        "stars": 1,
+        "desc": "Config files for my GitHub profile.",
+        "updated": "2022-01-11T08:02:56Z"
+      },
+      {
+        "full_name": "sumukhchitloor/nogitsune",
+        "url": "https://github.com/sumukhchitloor/nogitsune",
+        "stars": 1,
+        "desc": "",
+        "updated": "2026-07-22T13:09:41Z"
+      },
+      {
+        "full_name": "Nogitsune1/Nogitsune1",
+        "url": "https://github.com/Nogitsune1/Nogitsune1",
+        "stars": 0,
+        "desc": "Config files for my GitHub profile.",
+        "updated": "2022-03-10T16:14:16Z"
+      },
+      {
+        "full_name": "Nogitsune2478/Nogitsune2478",
+        "url": "https://github.com/Nogitsune2478/Nogitsune2478",
+        "stars": 0,
+        "desc": "Config files for my GitHub profile.",
+        "updated": "2022-05-29T09:59:01Z"
+      },
+      {
+        "full_name": "Nogitsune00/Nogitsune00",
+        "url": "https://github.com/Nogitsune00/Nogitsune00",
+        "stars": 0,
+        "desc": "",
+        "updated": "2026-07-10T18:53:37Z"
+      },
+      {
+        "full_name": "1-Nogitsune/Nogitsune",
+        "url": "https://github.com/1-Nogitsune/Nogitsune",
+        "stars": 0,
+        "desc": "",
+        "updated": "2023-02-26T11:36:17Z"
+      }
+    ]
+  },
+  "OWASP EKS Goat: Hands-On AWS EKS Security": {
+    "query": "OWASP EKS Goat",
+    "candidates": [
+      {
+        "full_name": "OWASP/www-project-eks-goat",
+        "url": "https://github.com/OWASP/www-project-eks-goat",
+        "stars": 46,
+        "desc": "OWASP EKS Goat is a deliberately vulnerable EKS cluster environment to explore AWS cloud-native security through hands-on attack and defense labs with walkthrough.",
+        "updated": "2026-06-22T00:47:03Z"
+      }
+    ]
+  },
+  "OWASP Faction 2.0": {
+    "query": "OWASP Faction 2.0",
+    "candidates": []
+  },
+  "Obscurize: Malware for Defense and Counter Offense": {
+    "query": "Obscurize",
+    "candidates": [
+      {
+        "full_name": "jxy-s/herpaderping",
+        "url": "https://github.com/jxy-s/herpaderping",
+        "stars": 1208,
+        "desc": "Process Herpaderping proof of concept, tool, and technical deep dive. Process Herpaderping bypasses security products by obscuring the intentions of a process.",
+        "updated": "2023-07-05T17:04:57Z"
+      },
+      {
+        "full_name": "vinc/moros",
+        "url": "https://github.com/vinc/moros",
+        "stars": 1091,
+        "desc": "MOROS: Obscure Rust Operating System 🦉",
+        "updated": "2026-08-05T06:03:10Z"
+      },
+      {
+        "full_name": "tcorral/javascript-challenges-book",
+        "url": "https://github.com/tcorral/javascript-challenges-book",
+        "stars": 816,
+        "desc": "Challenge yourself learning and understanding the most obscure and tricky parts of Javascript. http://tcorral.github.io/javascript-challenges-book/",
+        "updated": "2018-02-04T23:32:51Z"
+      },
+      {
+        "full_name": "i-am-tom/haskell-exercises",
+        "url": "https://github.com/i-am-tom/haskell-exercises",
+        "stars": 665,
+        "desc": "A little course to learn about some of the more obscure GHC extensions.",
+        "updated": "2023-11-07T17:54:13Z"
+      },
+      {
+        "full_name": "silentbicycle/theft",
+        "url": "https://github.com/silentbicycle/theft",
+        "stars": 649,
+        "desc": "property-based testing for C: generate input to find obscure bugs, then reduce to minimal failing input",
+        "updated": "2020-12-17T09:52:11Z"
+      },
+      {
+        "full_name": "rollin0-0/DiffHelper",
+        "url": "https://github.com/rollin0-0/DiffHelper",
+        "stars": 619,
+        "desc": "iOS混淆、iOS代码混淆工具、iOS马甲包、iOS马甲工具、iOS上架、iOS过审工具、iOS翻新工具、iOS重命名、iOS差异化工具,过4.3,避免2.3.1,混淆结果接近手工翻新,支持OC所有语法的差异化,支持文件名、类、分类、方法、属性、Protocol、宏、Block、静态变量、枚举等符号的差异化,支持png、jpg、plist、bundle、xib、storyborad等资源关联代码、方法名、类名的差异化修改。 iOS co",
+        "updated": "2025-07-07T06:01:57Z"
+      }
+    ]
+  },
+  "PETriage: Cross-Platform PE Surface Analysis for Malware Triage": {
+    "query": "PETriage",
+    "candidates": [
+      {
+        "full_name": "uky007/PETriage",
+        "url": "https://github.com/uky007/PETriage",
+        "stars": 13,
+        "desc": "PETriage: A symbol-unified PE file reader for triage, built for multi-platform and multi-interface use.",
+        "updated": "2026-08-04T04:45:42Z"
+      },
+      {
+        "full_name": "MariusKirchner/PetriAgentsPublic",
+        "url": "https://github.com/MariusKirchner/PetriAgentsPublic",
+        "stars": 0,
+        "desc": "",
+        "updated": "2025-12-20T22:59:22Z"
+      }
+    ]
+  },
+  "Pathrunner: An AWS Privilege Escalation Framework": {
+    "query": "Pathrunner",
+    "candidates": [
+      {
+        "full_name": "tbabic/pathrunner",
+        "url": "https://github.com/tbabic/pathrunner",
+        "stars": 0,
+        "desc": "",
+        "updated": "2026-07-21T09:20:30Z"
+      },
+      {
+        "full_name": "hariprasad-research/pathrunner",
+        "url": "https://github.com/hariprasad-research/pathrunner",
+        "stars": 0,
+        "desc": "make a path to help to  reach end of life ",
+        "updated": "2026-07-18T06:40:31Z"
+      },
+      {
+        "full_name": "DataDog/pathrunner",
+        "url": "https://github.com/DataDog/pathrunner",
+        "stars": 0,
+        "desc": "",
+        "updated": "2026-08-04T20:39:21Z"
+      },
+      {
+        "full_name": "MarcelaBustamante/pathRunner",
+        "url": "https://github.com/MarcelaBustamante/pathRunner",
+        "stars": 0,
+        "desc": "Repositorio de proyecto automatización de casos de prueba",
+        "updated": "2017-10-05T13:48:14Z"
+      },
+      {
+        "full_name": "UltraMellon/pathRunner",
+        "url": "https://github.com/UltraMellon/pathRunner",
+        "stars": 0,
+        "desc": "",
+        "updated": "2023-12-31T16:45:40Z"
+      },
+      {
+        "full_name": "rsinteractives/pathrunner-privacy-policy",
+        "url": "https://github.com/rsinteractives/pathrunner-privacy-policy",
+        "stars": 0,
+        "desc": "Privacy Policy for PathRunner mobile game",
+        "updated": "2026-05-16T08:50:38Z"
+      }
+    ]
+  },
+  "Pentest Copilot V2: The Agentic Pentesting Workspace": {
+    "query": "Pentest Copilot V2",
+    "candidates": []
+  },
+  "Pentesting made easy - Keeping sessions alive with session-chains": {
+    "query": "Pentesting made easy",
+    "candidates": [
+      {
+        "full_name": "kitsec-labs/kitsec-core",
+        "url": "https://github.com/kitsec-labs/kitsec-core",
+        "stars": 149,
+        "desc": "Pentesting, made easy.",
+        "updated": "2026-05-09T01:27:18Z"
+      },
+      {
+        "full_name": "akkireddy-challa/Online-Banking-system",
+        "url": "https://github.com/akkireddy-challa/Online-Banking-system",
+        "stars": 107,
+        "desc": "The project’s primary goals consist of: A robust and effective web based online banking system.  Extending functionality without compromising the security.  Personal banking services that gives you complete control over ",
+        "updated": "2019-04-11T12:36:51Z"
+      },
+      {
+        "full_name": "cybiere/baboossh",
+        "url": "https://github.com/cybiere/baboossh",
+        "stars": 56,
+        "desc": "SSH spreading made easy for red teams in a hurry",
+        "updated": "2026-08-05T04:35:38Z"
+      },
+      {
+        "full_name": "juancv3d/Hacker_Tool_Automation",
+        "url": "https://github.com/juancv3d/Hacker_Tool_Automation",
+        "stars": 19,
+        "desc": "This repo contains tools that hackers use for penetration testing and web hacking, DNS spoofing, MiTM, malware and more. It's made easy just for beginners.",
+        "updated": "2021-09-18T22:02:53Z"
+      },
+      {
+        "full_name": "pry0cc/lazy",
+        "url": "https://github.com/pry0cc/lazy",
+        "stars": 13,
+        "desc": "This is a lazy enumeration script made to make bug bounty enum & pentest flyovers easy as cake!",
+        "updated": "2020-06-13T21:24:33Z"
+      },
+      {
+        "full_name": "MasterXCode/Tool-H",
+        "url": "https://github.com/MasterXCode/Tool-H",
+        "stars": 2,
+        "desc": "Tool-H is an educational tool made in shell lang . it's so user friendly and so easy to use .and contains many useful stuff for all kind of people . beginners , pros or pentesters ",
+        "updated": "2021-05-30T21:36:56Z"
+      }
+    ]
+  },
+  "Practical Ransomware Detection on macOS (via Math, not AI)": {
+    "query": "Practical Ransomware Detection on macOS",
+    "candidates": []
+  },
+  "Praxis - Semantic Command & Control Framework": {
+    "query": "Praxis",
+    "candidates": [
+      {
+        "full_name": "Sibo-Zhao/OpenPraxis",
+        "url": "https://github.com/Sibo-Zhao/OpenPraxis",
+        "stars": 415,
+        "desc": "An OpenClaw-native knowledge retention skill that turns raw inputs into structured practice so you can use what you know, not just store it.",
+        "updated": "2026-03-10T00:09:27Z"
+      },
+      {
+        "full_name": "griddynamics-archive/Praxis",
+        "url": "https://github.com/griddynamics-archive/Praxis",
+        "stars": 373,
+        "desc": "Example Android project using MVVM, DaggerAndroid, Jetpack Compose, Retrofit, Coroutines and Multi module architecture ✌🏽",
+        "updated": "2023-05-12T12:45:07Z"
+      },
+      {
+        "full_name": "praxis-live/praxis-live",
+        "url": "https://github.com/praxis-live/praxis-live",
+        "stars": 371,
+        "desc": "PraxisLIVE IDE - (cluster: praxis_live)",
+        "updated": "2026-07-17T16:06:57Z"
+      },
+      {
+        "full_name": "praxis/praxis",
+        "url": "https://github.com/praxis/praxis",
+        "stars": 302,
+        "desc": "Praxis is a framework that focuses on both the design and implementation aspects of creating APIs.",
+        "updated": "2025-04-09T20:54:39Z"
+      },
+      {
+        "full_name": "toblotron/praxis-ide",
+        "url": "https://github.com/toblotron/praxis-ide",
+        "stars": 249,
+        "desc": "An online IDE for visual programming in Prolog",
+        "updated": "2026-07-20T19:49:10Z"
+      },
+      {
+        "full_name": "google/praxis",
+        "url": "https://github.com/google/praxis",
+        "stars": 200,
+        "desc": "",
+        "updated": "2026-07-22T14:07:11Z"
+      }
+    ]
+  },
+  "Precogly: Open Source Threat Modeling for AI-Assisted Security": {
+    "query": "Precogly",
+    "candidates": [
+      {
+        "full_name": "DemocratiseResearch/SARAL",
+        "url": "https://github.com/DemocratiseResearch/SARAL",
+        "stars": 165,
+        "desc": "SARAL AI (Simplified & Automated Research & Learning) is a platform designed to transform dense academic papers into highly engaging, accessible formats. Developed at Precog Labs, IIIT Hyderabad, this national initiative",
+        "updated": "2026-07-08T18:33:32Z"
+      },
+      {
+        "full_name": "precogly/precogly",
+        "url": "https://github.com/precogly/precogly",
+        "stars": 132,
+        "desc": "Open-source, enterprise-grade threat modeling platform",
+        "updated": "2026-08-04T23:21:41Z"
+      },
+      {
+        "full_name": "nrhinehart/precog",
+        "url": "https://github.com/nrhinehart/precog",
+        "stars": 91,
+        "desc": "Reimplementation (currently partial) of PRECOG paper, ICCV '19",
+        "updated": "2022-12-08T04:01:06Z"
+      },
+      {
+        "full_name": "nrhinehart/precog_carla_dataset",
+        "url": "https://github.com/nrhinehart/precog_carla_dataset",
+        "stars": 42,
+        "desc": "Small example for loading the CARLA data from the PRECOG paper",
+        "updated": "2022-06-21T21:57:12Z"
+      },
+      {
+        "full_name": "anant14014/TwitterHinglishTranslation",
+        "url": "https://github.com/anant14014/TwitterHinglishTranslation",
+        "stars": 14,
+        "desc": "Submission for the Programming Task for the Precog Recruitment Process (II)",
+        "updated": "2016-07-29T16:25:22Z"
+      },
+      {
+        "full_name": "ansjin/memory_leak_detection",
+        "url": "https://github.com/ansjin/memory_leak_detection",
+        "stars": 13,
+        "desc": "For solving the challenge of online detection of memory leaks in cloud-based infrastructure without having any internal application knowledge we introduce multiple algorithms. The main introduced algorithm is Precog (whi",
+        "updated": "2022-11-12T23:44:15Z"
+      }
+    ]
+  },
+  "PrivacyTrollShield: An Open-Source Scanner for Privacy Compliance": {
+    "query": "PrivacyTrollShield",
+    "candidates": [
+      {
+        "full_name": "atekippe/PrivacyTrollShield",
+        "url": "https://github.com/atekippe/PrivacyTrollShield",
+        "stars": 0,
+        "desc": "",
+        "updated": "2026-08-05T22:13:06Z"
+      }
+    ]
+  },
+  "PwnSat 2.0: The Vulnerable Satellite Hacking Platform for Learning Through Research": {
+    "query": "PwnSat 2.0",
+    "candidates": [
+      {
+        "full_name": "r0r0x-xx/PwnSat-2.0",
+        "url": "https://github.com/r0r0x-xx/PwnSat-2.0",
+        "stars": 7,
+        "desc": "",
+        "updated": "2026-03-13T01:11:22Z"
+      }
+    ]
+  },
+  "QuicDraw & QuicDraw-UI: Racing and Fuzzing HTTP/3": {
+    "query": "QuicDraw & QuicDraw-UI",
+    "candidates": []
+  },
+  "ROP ROCKET: New ASLR Bypass Mini-Tool & Automating Advanced ROP Attacks": {
+    "query": "ROP ROCKET",
+    "candidates": [
+      {
+        "full_name": "Bw3ll/ROP_ROCKET",
+        "url": "https://github.com/Bw3ll/ROP_ROCKET",
+        "stars": 171,
+        "desc": "ROP ROCKET is an advanced code-reuse attack framework, with extensive ROP chain generation capabilities, including for novel Windows Syscalls attack, a novel Heaven's Gate, and \"shellcodeless\" ROP. The framework utilizes",
+        "updated": "2025-12-05T17:40:00Z"
+      },
+      {
+        "full_name": "anbanpillay/ASRI-PyROPS",
+        "url": "https://github.com/anbanpillay/ASRI-PyROPS",
+        "stars": 1,
+        "desc": "RocketPy simulation migration from PyROPS - Interactive web interface for rocket trajectory analysis",
+        "updated": "2025-10-19T20:07:54Z"
+      },
+      {
+        "full_name": "goray123/RopeAndRocket",
+        "url": "https://github.com/goray123/RopeAndRocket",
+        "stars": 0,
+        "desc": "로프액션 로켓런처 스피드 액션 게임",
+        "updated": "2026-08-02T13:33:39Z"
+      },
+      {
+        "full_name": "Nis0na/Rope-Rocket",
+        "url": "https://github.com/Nis0na/Rope-Rocket",
+        "stars": 0,
+        "desc": "A Rocketrope Discord Bot",
+        "updated": "2025-01-27T11:21:15Z"
+      }
+    ]
+  },
+  "RPCExplorer": {
+    "query": "RPCExplorer",
+    "candidates": [
+      {
+        "full_name": "square/RpcExplorer",
+        "url": "https://github.com/square/RpcExplorer",
+        "stars": 6,
+        "desc": "Search for service methods defined in protobuf and interactively build requests.",
+        "updated": "2025-06-13T19:14:34Z"
+      },
+      {
+        "full_name": "makewalletfirst/BitEver-RPCexplorer",
+        "url": "https://github.com/makewalletfirst/BitEver-RPCexplorer",
+        "stars": 0,
+        "desc": "sat->ever",
+        "updated": "2026-05-25T08:28:37Z"
+      }
+    ]
+  },
+  "ReARM: Release Governance Platform": {
+    "query": "ReARM",
+    "candidates": [
+      {
+        "full_name": "notaz/pcsx_rearmed",
+        "url": "https://github.com/notaz/pcsx_rearmed",
+        "stars": 463,
+        "desc": "ARM optimized PCSX fork",
+        "updated": "2026-08-01T23:49:16Z"
+      },
+      {
+        "full_name": "relizaio/rearm",
+        "url": "https://github.com/relizaio/rearm",
+        "stars": 123,
+        "desc": "ReARM - Release Governance Platform",
+        "updated": "2026-08-06T12:16:59Z"
+      },
+      {
+        "full_name": "westonganger/rearmed-js",
+        "url": "https://github.com/westonganger/rearmed-js",
+        "stars": 103,
+        "desc": "A collection of helpful methods and monkey patches for Arrays, Objects, Numbers, and Strings in Javascript",
+        "updated": "2023-11-01T00:20:36Z"
+      },
+      {
+        "full_name": "asdcorp/rearm",
+        "url": "https://github.com/asdcorp/rearm",
+        "stars": 63,
+        "desc": "Rearm Every Activation-Related Mechanism",
+        "updated": "2025-07-01T19:04:36Z"
+      },
+      {
+        "full_name": "Rinnegatamante/ldhewm3-rearmed",
+        "url": "https://github.com/Rinnegatamante/ldhewm3-rearmed",
+        "stars": 51,
+        "desc": "Port of Doom 3 for PSVITA formerly named Potatoom 3. (Based on https://github.com/emileb/d3es-multithread )",
+        "updated": "2026-07-20T18:43:24Z"
+      },
+      {
+        "full_name": "mattiasgustavsson/repair-rearm",
+        "url": "https://github.com/mattiasgustavsson/repair-rearm",
+        "stars": 48,
+        "desc": "Shoot-em-up game made for Global Game Jam 2020",
+        "updated": "2025-06-29T12:12:29Z"
+      }
+    ]
+  },
+  "RedTeamSimmer: A Web Based Adversary Emulation Platform and Atomic Red Team Test Orchestration": {
+    "query": "RedTeamSimmer",
+    "candidates": [
+      {
+        "full_name": "BreachSimRange/RedTeamSimmer",
+        "url": "https://github.com/BreachSimRange/RedTeamSimmer",
+        "stars": 2,
+        "desc": "RedTeamSimmer - A Cool UI for Atomic Red Team!",
+        "updated": "2026-07-22T04:54:36Z"
+      }
+    ]
+  },
+  "SBoMPlay : SBoM Exploration and Intelligence extraction platform": {
+    "query": "SBoMPlay",
+    "candidates": [
+      {
+        "full_name": "cyfinoid/sbomplay",
+        "url": "https://github.com/cyfinoid/sbomplay",
+        "stars": 37,
+        "desc": "Browser based Privacy Aware SBoM Exploration",
+        "updated": "2026-08-06T14:06:01Z"
+      }
+    ]
+  },
+  "SEmuRAI: Software Emulation and Reversing AI Agent": {
+    "query": "SEmuRAI",
+    "candidates": [
+      {
+        "full_name": "jhn322/librechat-semurai",
+        "url": "https://github.com/jhn322/librechat-semurai",
+        "stars": 1,
+        "desc": "Deployment and configuration of a self-hosted multi AI chat using LibreChat code for internal use. ",
+        "updated": "2025-12-08T22:18:09Z"
+      },
+      {
+        "full_name": "DevNerdGR/SEmuRAI-mcp",
+        "url": "https://github.com/DevNerdGR/SEmuRAI-mcp",
+        "stars": 1,
+        "desc": "Dynamic analysis toolkit for reverse engineering agents",
+        "updated": "2026-07-23T17:08:01Z"
+      },
+      {
+        "full_name": "lovkush7/COODING-SEMURAI-INTERNSHIP-TASK",
+        "url": "https://github.com/lovkush7/COODING-SEMURAI-INTERNSHIP-TASK",
+        "stars": 1,
+        "desc": "",
+        "updated": "2025-07-27T12:11:12Z"
+      },
+      {
+        "full_name": "lcw3176/semurai",
+        "url": "https://github.com/lcw3176/semurai",
+        "stars": 0,
+        "desc": "상시 근로자수 자동 계산",
+        "updated": "2024-04-08T06:10:34Z"
+      },
+      {
+        "full_name": "Semuraii/Semuraii",
+        "url": "https://github.com/Semuraii/Semuraii",
+        "stars": 0,
+        "desc": "Config files for my GitHub profile.",
+        "updated": "2025-05-21T10:05:18Z"
+      },
+      {
+        "full_name": "DevNerdGR/SEmuRAI-Release",
+        "url": "https://github.com/DevNerdGR/SEmuRAI-Release",
+        "stars": 0,
+        "desc": "Experimentation and evaluation codebase for SEmuRAI. Visit https://github.com/DevNerdGR/SEmuRAI-mcp for the usable tool",
+        "updated": "2026-03-15T17:09:03Z"
+      }
+    ]
+  },
+  "SHAREM: Next-Generation Shellcode Analysis Tool": {
+    "query": "SHAREM",
+    "candidates": [
+      {
+        "full_name": "adrianhajdin/project_shareme_social_media",
+        "url": "https://github.com/adrianhajdin/project_shareme_social_media",
+        "stars": 1730,
+        "desc": "Image Sharing Social Media App",
+        "updated": "2023-12-21T15:08:58Z"
+      },
+      {
+        "full_name": "Hacker233/sharemore52",
+        "url": "https://github.com/Hacker233/sharemore52",
+        "stars": 626,
+        "desc": "各类资料、教程合集，包括有编程类、公务员考试类、证书考取类、互联网类等等，主要以网盘形式分享。软件分享地址：https://sharemore52.gitee.io/",
+        "updated": "2023-02-27T19:15:12Z"
+      },
+      {
+        "full_name": "Bw3ll/sharem",
+        "url": "https://github.com/Bw3ll/sharem",
+        "stars": 490,
+        "desc": "SHAREM is a shellcode analysis framework, capable of emulating more than 45,000 WinAPIs and virutally all Windows syscalls. It also contains its own custom disassembler, with many innovative features, such as being able ",
+        "updated": "2026-03-22T22:21:27Z"
+      },
+      {
+        "full_name": "bndkt/sharemystack",
+        "url": "https://github.com/bndkt/sharemystack",
+        "stars": 390,
+        "desc": "Share your stack with the world!",
+        "updated": "2024-04-09T14:04:11Z"
+      },
+      {
+        "full_name": "producthunt/ShareMeow",
+        "url": "https://github.com/producthunt/ShareMeow",
+        "stars": 186,
+        "desc": ":heart_eyes_cat: text shots service",
+        "updated": "2023-02-01T21:33:12Z"
+      },
+      {
+        "full_name": "dongdaxiaofeizao/ShareMeeting",
+        "url": "https://github.com/dongdaxiaofeizao/ShareMeeting",
+        "stars": 170,
+        "desc": "共享会议室预定小程序，有了这个小程序，在开放的会议室任你选择，随时随地线上自主预约，清晰直观的会议室可预约时段，让您告别等待，告别繁杂的人工手续，把效率牢牢抓在手心。会议室申请：点击会议室预定，根据场地需求选择会议室→点击现在预定→选择可预订时间段→提交申请即可。前后端完整代码，包括选择会议室，修改会议日期、时间，以及备注进行会议创建。预约成功后，可以查看会议详情。后台功能包括：会议室创建，预定记录查询，生成单个会议室小程序码海报，发布",
+        "updated": "2025-01-14T15:01:13Z"
+      }
+    ]
+  },
+  "SafeScribe - Edge Device AI Meeting Notetaker": {
+    "query": "SafeScribe",
+    "candidates": [
+      {
+        "full_name": "js4nt0s/safescribe",
+        "url": "https://github.com/js4nt0s/safescribe",
+        "stars": 2,
+        "desc": "",
+        "updated": "2024-01-19T19:47:17Z"
+      },
+      {
+        "full_name": "rxnowapp-coder/safescribe",
+        "url": "https://github.com/rxnowapp-coder/safescribe",
+        "stars": 0,
+        "desc": "",
+        "updated": "2026-07-09T06:37:32Z"
+      },
+      {
+        "full_name": "Winta1/safescribe",
+        "url": "https://github.com/Winta1/safescribe",
+        "stars": 0,
+        "desc": "Simple note taking mobile application for security asessment",
+        "updated": "2026-04-20T16:35:26Z"
+      },
+      {
+        "full_name": "levmn/safescribe",
+        "url": "https://github.com/levmn/safescribe",
+        "stars": 0,
+        "desc": "",
+        "updated": "2025-10-21T19:22:48Z"
+      },
+      {
+        "full_name": "DO-TA/safescribe",
+        "url": "https://github.com/DO-TA/safescribe",
+        "stars": 0,
+        "desc": "100% on-device AI transcription with Whisper & Gemma",
+        "updated": "2026-05-01T02:02:41Z"
+      },
+      {
+        "full_name": "JamesLukeD/SafeScribe",
+        "url": "https://github.com/JamesLukeD/SafeScribe",
+        "stars": 0,
+        "desc": "",
+        "updated": "2026-04-06T22:26:11Z"
+      }
+    ]
+  },
+  "Sage: Giving an AI the Keys to Your C2 Framework": {
+    "query": "Sage",
+    "candidates": [
+      {
+        "full_name": "roots/sage",
+        "url": "https://github.com/roots/sage",
+        "stars": 13253,
+        "desc": "WordPress starter theme with Laravel Blade components and templates, Tailwind CSS, and block editor support",
+        "updated": "2026-06-01T21:50:33Z"
+      },
+      {
+        "full_name": "aws/amazon-sagemaker-examples",
+        "url": "https://github.com/aws/amazon-sagemaker-examples",
+        "stars": 10982,
+        "desc": "Example 📓 Jupyter notebooks that demonstrate how to build, train, and deploy machine learning models using 🧠 Amazon SageMaker. ",
+        "updated": "2026-07-30T22:05:30Z"
+      },
+      {
+        "full_name": "SagerNet/SagerNet",
+        "url": "https://github.com/SagerNet/SagerNet",
+        "stars": 5745,
+        "desc": "The universal proxy toolchain for Android",
+        "updated": "2024-02-13T08:55:52Z"
+      },
+      {
+        "full_name": "williamleif/GraphSAGE",
+        "url": "https://github.com/williamleif/GraphSAGE",
+        "stars": 3717,
+        "desc": "Representation learning on large graphs using stochastic graph convolutions.",
+        "updated": "2024-08-04T16:33:52Z"
+      },
+      {
+        "full_name": "thu-ml/SageAttention",
+        "url": "https://github.com/thu-ml/SageAttention",
+        "stars": 3580,
+        "desc": "[ICLR2025, ICML2025, NeurIPS2025 Spotlight] Quantized Attention achieves speedup of 2-5x compared to FlashAttention, without losing end-to-end metrics across language, image, and video models.",
+        "updated": "2026-01-17T17:43:28Z"
+      },
+      {
+        "full_name": "sagemath/sage",
+        "url": "https://github.com/sagemath/sage",
+        "stars": 2499,
+        "desc": "Main repository of SageMath",
+        "updated": "2026-08-04T21:00:03Z"
+      }
+    ]
+  },
+  "ShadowHunt 2.0: Uncovering Shadow IT and Hidden Secrets": {
+    "query": "ShadowHunt 2.0",
+    "candidates": [
+      {
+        "full_name": "cooltoolz/ShadowHunt2.0",
+        "url": "https://github.com/cooltoolz/ShadowHunt2.0",
+        "stars": 1,
+        "desc": "",
+        "updated": "2026-07-27T09:29:17Z"
+      }
+    ]
+  },
+  "ShellWasp: Creating Shellcode with Windows Syscalls": {
+    "query": "ShellWasp",
+    "candidates": [
+      {
+        "full_name": "Bw3ll/ShellWasp",
+        "url": "https://github.com/Bw3ll/ShellWasp",
+        "stars": 175,
+        "desc": "ShellWasp is a tool to help build shellcode that utilizes Windows syscalls, while overcoming the portability problem associated with Windows syscalls. ShellWasp is built for 32-bit, WoW64. ShellWasp 2.0 includes novel wa",
+        "updated": "2026-08-05T10:45:13Z"
+      }
+    ]
+  },
+  "Social Engineering with Reel": {
+    "query": "Social Engineering with Reel",
+    "candidates": []
+  },
+  "Splunk MCP LLM SIEMulator: Open Source AI Security Monitoring Through Model Context Protocol Integration": {
+    "query": "Splunk MCP LLM SIEMulator",
+    "candidates": [
+      {
+        "full_name": "rsfl/splunk-mcp-llm-siemulator",
+        "url": "https://github.com/rsfl/splunk-mcp-llm-siemulator",
+        "stars": 33,
+        "desc": "A Docker lab integrating Splunk SIEM with Ollama LLM via MCP for AI security operations. Features Promptfoo OWASP evaluation, TA-ollama and TA-mcp-jsonrpc add-ons, dual bind-mount log ingestion, and real-time HEC streami",
+        "updated": "2026-07-23T22:03:58Z"
+      },
+      {
+        "full_name": "rsfl/splunk-mcp-llm-siemulator-linux",
+        "url": "https://github.com/rsfl/splunk-mcp-llm-siemulator-linux",
+        "stars": 18,
+        "desc": "Linux version of Splunk MCP LLM MCP SIEMulator . A Docker lab integrating Splunk SIEM with Ollama LLM via Model Context Protocol for AI-powered security operations. Features Promptfoo evaluation, OpenWebUI chat interface",
+        "updated": "2026-06-20T03:40:40Z"
+      },
+      {
+        "full_name": "rsfl/agentic-llm-mcp-threat-emulator",
+        "url": "https://github.com/rsfl/agentic-llm-mcp-threat-emulator",
+        "stars": 4,
+        "desc": "Agentic LLM MCP Threat Emulator companion for Splunk MCP LLM SIEMulator",
+        "updated": "2026-07-23T16:44:01Z"
+      }
+    ]
+  },
+  "StegoScan": {
+    "query": "StegoScan",
+    "candidates": [
+      {
+        "full_name": "LCBOWER33/StegoScan",
+        "url": "https://github.com/LCBOWER33/StegoScan",
+        "stars": 109,
+        "desc": "",
+        "updated": "2025-05-29T17:35:51Z"
+      },
+      {
+        "full_name": "m-navaneeth8770/stegoscan-tool",
+        "url": "https://github.com/m-navaneeth8770/stegoscan-tool",
+        "stars": 1,
+        "desc": "steganography vulnerablity scanner",
+        "updated": "2025-07-02T11:51:51Z"
+      },
+      {
+        "full_name": "HA5ANT/StegoScan",
+        "url": "https://github.com/HA5ANT/StegoScan",
+        "stars": 1,
+        "desc": "StegoScan is an automated steganography analysis tool designed to help cybersecurity beginners and professionals quickly analyze files for hidden content. This powerful Bash script scans files using multiple steganograph",
+        "updated": "2026-05-17T10:23:22Z"
+      },
+      {
+        "full_name": "Laurenz-Guevara/stegoscan",
+        "url": "https://github.com/Laurenz-Guevara/stegoscan",
+        "stars": 0,
+        "desc": "",
+        "updated": "2024-06-15T18:13:32Z"
+      },
+      {
+        "full_name": "Loubnaterfaoui/stegoscaner",
+        "url": "https://github.com/Loubnaterfaoui/stegoscaner",
+        "stars": 0,
+        "desc": "",
+        "updated": "2026-05-24T22:49:34Z"
+      },
+      {
+        "full_name": "akashkannancybersec/StegoScan",
+        "url": "https://github.com/akashkannancybersec/StegoScan",
+        "stars": 0,
+        "desc": "A Python-based tool for scanning **files and folders** to detect suspicious content, hidden data, embedded executables, and potential secrets.   Supports **images, documents, videos, and archives** with colored terminal ",
+        "updated": "2025-09-25T17:11:53Z"
+      }
+    ]
+  },
+  "Surfactant - Modular Framework for File Information Extraction and SBOM Generation": {
+    "query": "Surfactant",
+    "candidates": [
+      {
+        "full_name": "llnl/Surfactant",
+        "url": "https://github.com/llnl/Surfactant",
+        "stars": 42,
+        "desc": "Modular framework for file information extraction and dependency analysis to generate accurate SBOMs",
+        "updated": "2026-08-05T17:27:29Z"
+      },
+      {
+        "full_name": "BigChemistry-RobotLab/SurfPro",
+        "url": "https://github.com/BigChemistry-RobotLab/SurfPro",
+        "stars": 21,
+        "desc": "A curated database of surfactants and their experimentally determined physical properties and multi-property graph neural network ensemble for prediction of pCMC, air-water surface tension and more.",
+        "updated": "2026-05-20T15:41:41Z"
+      },
+      {
+        "full_name": "DaleSeddon-GitHub/SFT-logc-Prediction",
+        "url": "https://github.com/DaleSeddon-GitHub/SFT-logc-Prediction",
+        "stars": 13,
+        "desc": "Python code accompanying the academic paper on the prediction of the SFT-log(c) profile for surfactants in water ",
+        "updated": "2022-02-08T11:31:43Z"
+      },
+      {
+        "full_name": "brozosc/Graph-Neural-Networks-for-Surfactant-Multi-Property-Prediction",
+        "url": "https://github.com/brozosc/Graph-Neural-Networks-for-Surfactant-Multi-Property-Prediction",
+        "stars": 9,
+        "desc": "",
+        "updated": "2024-05-12T16:33:53Z"
+      },
+      {
+        "full_name": "mnnad/Generative_AI_surfactants_molecules",
+        "url": "https://github.com/mnnad/Generative_AI_surfactants_molecules",
+        "stars": 8,
+        "desc": "",
+        "updated": "2023-10-30T20:32:03Z"
+      },
+      {
+        "full_name": "msesmart/Diffuse_Interface_method",
+        "url": "https://github.com/msesmart/Diffuse_Interface_method",
+        "stars": 5,
+        "desc": "multiphase, insoluble surfactant, lagrange partitial method.",
+        "updated": "2015-10-20T03:40:37Z"
+      }
+    ]
+  },
+  "Suricata 8: Discover the Difference in Network Detection": {
+    "query": "Suricata 8",
+    "candidates": [
+      {
+        "full_name": "jasonish/suricatax80-plugin-utils",
+        "url": "https://github.com/jasonish/suricatax80-plugin-utils",
+        "stars": 2,
+        "desc": "Experimental Suricata 8.0 Plugin Utilities",
+        "updated": "2026-05-27T21:54:54Z"
+      },
+      {
+        "full_name": "jasonish/suricatax80-ndpi5-plugin",
+        "url": "https://github.com/jasonish/suricatax80-ndpi5-plugin",
+        "stars": 2,
+        "desc": "Experimental Suricata 8.0 nDPI 5 Plugin",
+        "updated": "2026-06-05T23:02:23Z"
+      },
+      {
+        "full_name": "Tu4nSecc/wazuh-pfsense-suricata-n8n-soar-lab",
+        "url": "https://github.com/Tu4nSecc/wazuh-pfsense-suricata-n8n-soar-lab",
+        "stars": 2,
+        "desc": "",
+        "updated": "2026-05-15T04:03:19Z"
+      },
+      {
+        "full_name": "Uzairf4665/Installing-Suricata-on-Ubuntu-24.04.1",
+        "url": "https://github.com/Uzairf4665/Installing-Suricata-on-Ubuntu-24.04.1",
+        "stars": 2,
+        "desc": "Follow this guide to install and configure Suricata IDS on an Ubuntu system. The steps have been tested with Suricata version 6.0.8 and should work seamlessly on Ubuntu 24.04.1.",
+        "updated": "2024-11-30T20:39:27Z"
+      },
+      {
+        "full_name": "mayank02raj/SOC-home-lab",
+        "url": "https://github.com/mayank02raj/SOC-home-lab",
+        "stars": 2,
+        "desc": "Production-shaped 11-service Dockerized SOC with Wazuh SIEM, Suricata IDS, TheHive, Cortex, Grafana. Includes Sigma rules, a Sigma-to-Wazuh compiler, 8-stage MITRE ATT&CK adversary emulation, and CI-validated detection-a",
+        "updated": "2026-04-08T04:26:35Z"
+      },
+      {
+        "full_name": "haolipeng/docker-suricata-8.0",
+        "url": "https://github.com/haolipeng/docker-suricata-8.0",
+        "stars": 1,
+        "desc": "docker-suricata-8.0",
+        "updated": "2026-08-06T08:25:03Z"
+      }
+    ]
+  },
+  "Suricata Turbo: Let Your NIC Drop the Flows Suricata Won't Miss": {
+    "query": "Suricata Turbo",
+    "candidates": [
+      {
+        "full_name": "DynaNIC/suricata-turbo",
+        "url": "https://github.com/DynaNIC/suricata-turbo",
+        "stars": 0,
+        "desc": "Enhanced Suricata network threat engine (a fork of https://github.com/OISF/suricata) with an open-source, vendor-independent hardware offload (DPDK rte_flow).",
+        "updated": "2026-04-13T15:01:13Z"
+      }
+    ]
+  },
+  "Suzaku by Yamato Security": {
+    "query": "Suzaku by Yamato Security",
+    "candidates": []
+  },
+  "TSURUGI LINUX - the sharpest weapon in your DFIR arsenal": {
+    "query": "TSURUGI LINUX",
+    "candidates": [
+      {
+        "full_name": "DFIRScience/searchScreenshots",
+        "url": "https://github.com/DFIRScience/searchScreenshots",
+        "stars": 4,
+        "desc": "Tsurugi Linux Search Screenshots Utility",
+        "updated": "2021-10-18T18:20:50Z"
+      },
+      {
+        "full_name": "Samuele95/dms",
+        "url": "https://github.com/Samuele95/dms",
+        "stars": 1,
+        "desc": "DMS (Drive Malware Scan) - Advanced malware detection and forensic analysis tool for Tsurugi Linux",
+        "updated": "2026-01-21T08:16:03Z"
+      },
+      {
+        "full_name": "M1LLCR3PE/Tsurugi-Linux",
+        "url": "https://github.com/M1LLCR3PE/Tsurugi-Linux",
+        "stars": 0,
+        "desc": "",
+        "updated": "2025-09-20T08:52:26Z"
+      },
+      {
+        "full_name": "VassBass/exp_scripts",
+        "url": "https://github.com/VassBass/exp_scripts",
+        "stars": 0,
+        "desc": "Common Linux scripts I use (environment - CAINE, Tsurugi)",
+        "updated": "2026-04-10T06:54:55Z"
+      },
+      {
+        "full_name": "trhacknonimous/Os",
+        "url": "https://github.com/trhacknonimous/Os",
+        "stars": 0,
+        "desc": "Differents os, like kali linux, caine, tsurugi, kodachi, gparted, ...",
+        "updated": "2025-07-12T09:01:51Z"
+      }
+    ]
+  },
+  "Tengu Marauder Vanguard Version 2.0": {
+    "query": "Tengu Marauder Vanguard Version 2.0",
+    "candidates": []
+  },
+  "The Metasploit Framework 6.5: Malleable C2 Payloads, New Relay Capability and Protocol Session Upgrades": {
+    "query": "The Metasploit Framework 6.5",
+    "candidates": [
+      {
+        "full_name": "swati1024/torrents",
+        "url": "https://github.com/swati1024/torrents",
+        "stars": 103,
+        "desc": "Skip to content   Search… All gists Back to GitHub Sign in Sign up Instantly share code, notes, and snippets.  @giansalex giansalex/torrent-courses-download-list.md forked from M-Younus/torrent courses download-list Last",
+        "updated": "2020-02-23T20:03:58Z"
+      },
+      {
+        "full_name": "vaginessa/ShadowBrokers-NSA-Mirror",
+        "url": "https://github.com/vaginessa/ShadowBrokers-NSA-Mirror",
+        "stars": 14,
+        "desc": "https://steemit.com/shadowbrokers/@theshadowbrokers/lost-in-translation  # Exploits  - **EARLYSHOVEL** RedHat 7.0 - 7.1 Sendmail 8.11.x exploit  - **EBBISLAND (EBBSHAVE)** root RCE via RPC XDR overflow in Solaris 6, 7, 8",
+        "updated": "2017-06-02T05:23:57Z"
+      },
+      {
+        "full_name": "nadhmiamri/help",
+        "url": "https://github.com/nadhmiamri/help",
+        "stars": 5,
+        "desc": "==========================================================================              Veil-Evasion (Setup Script) | [Updated]: 2016-09-09  ==========================================================================   [W",
+        "updated": "2017-01-29T16:59:56Z"
+      }
+    ]
+  },
+  "ThreatShield - The Intelligent Way of Threat Modelling": {
+    "query": "ThreatShield",
+    "candidates": [
+      {
+        "full_name": "kavya-r30/ThreatShield",
+        "url": "https://github.com/kavya-r30/ThreatShield",
+        "stars": 16,
+        "desc": "ThreatShield is an AI-powered malware analysis platform that combines static and dynamic analysis and machine learning to detect and explain threats across multiple file types.",
+        "updated": "2026-03-23T16:46:31Z"
+      },
+      {
+        "full_name": "threatshield/threatshield",
+        "url": "https://github.com/threatshield/threatshield",
+        "stars": 11,
+        "desc": "Making lives of Security Engineers easier!",
+        "updated": "2026-07-29T09:41:34Z"
+      },
+      {
+        "full_name": "vartulzeroshieldai/Threat-Shield",
+        "url": "https://github.com/vartulzeroshieldai/Threat-Shield",
+        "stars": 7,
+        "desc": "ThreatShield is a unified, AI-powered threat modelling platform from zeroshield.ai. It is an advanced threat modelling tool built to perform threat modelling for classic applications ,  Large Language Models(LLMs) and Mo",
+        "updated": "2026-01-25T06:23:48Z"
+      },
+      {
+        "full_name": "anujrwt08/ThreatShield-AI",
+        "url": "https://github.com/anujrwt08/ThreatShield-AI",
+        "stars": 3,
+        "desc": "",
+        "updated": "2026-04-06T05:36:37Z"
+      },
+      {
+        "full_name": "arnvjshi/Threat-Detection-Dashboard",
+        "url": "https://github.com/arnvjshi/Threat-Detection-Dashboard",
+        "stars": 3,
+        "desc": "ThreatShield AI-powered threat detection system using GROQ to analyze audio, image, and text data. It extracts insights and flags potential threats in real-time across multiple media formats.",
+        "updated": "2025-12-30T04:45:53Z"
+      },
+      {
+        "full_name": "CaHHaL/ThreatShield-Cloud-Native-Cyber-Defense-Monitoring-Platform",
+        "url": "https://github.com/CaHHaL/ThreatShield-Cloud-Native-Cyber-Defense-Monitoring-Platform",
+        "stars": 2,
+        "desc": "AI-assisted cloud-native threat intelligence platform with honeypots, real-time SOC dashboard, FastAPI backend, Prometheus/Grafana monitoring, and DevSecOps deployment pipeline.",
+        "updated": "2026-05-29T06:44:04Z"
+      }
+    ]
+  },
+  "ThreatXtension: AI-Powered Browser Extension Security Analysis Framework": {
+    "query": "ThreatXtension",
+    "candidates": [
+      {
+        "full_name": "barvhaim/ThreatXtension",
+        "url": "https://github.com/barvhaim/ThreatXtension",
+        "stars": 22,
+        "desc": "AI-powered chrome extension security analysis tool that detects malicious behaviors, privacy violations, and security vulnerabilities before they compromise your browser. Powered by watsonx.ai",
+        "updated": "2026-08-03T13:22:30Z"
+      }
+    ]
+  },
+  "Trajan: Cross-Platform CI/CD Security Scanner": {
+    "query": "Trajan",
+    "candidates": [
+      {
+        "full_name": "praetorian-inc/trajan",
+        "url": "https://github.com/praetorian-inc/trajan",
+        "stars": 169,
+        "desc": "A multi-platform CI/CD vulnerability detection and attack automation tool for identifying security weaknesses in pipeline configurations.",
+        "updated": "2026-08-06T02:59:56Z"
+      },
+      {
+        "full_name": "mrk-9/Trajans-Marketplace_Angular.js",
+        "url": "https://github.com/mrk-9/Trajans-Marketplace_Angular.js",
+        "stars": 29,
+        "desc": "SHOPPING WEBSITE, BITCOIN, SHOPIFY",
+        "updated": "2020-10-01T15:29:52Z"
+      },
+      {
+        "full_name": "auranic/ClinTrajan",
+        "url": "https://github.com/auranic/ClinTrajan",
+        "stars": 23,
+        "desc": "Finding trajectories, bifurcations and quantifying pseudotime in large clinical datasets",
+        "updated": "2025-02-22T12:45:01Z"
+      },
+      {
+        "full_name": "OpenDrift/trajan",
+        "url": "https://github.com/OpenDrift/trajan",
+        "stars": 22,
+        "desc": "Trajectory analysis package for simulated and observed trajectories",
+        "updated": "2026-07-28T17:54:22Z"
+      },
+      {
+        "full_name": "trajano/trajano-swarm",
+        "url": "https://github.com/trajano/trajano-swarm",
+        "stars": 15,
+        "desc": "This contains the stack files used to deploy my Docker swarm.",
+        "updated": "2020-04-28T05:41:42Z"
+      },
+      {
+        "full_name": "canzarlab/Trajan",
+        "url": "https://github.com/canzarlab/Trajan",
+        "stars": 10,
+        "desc": "Single-cell trajectory alignment with Trajan",
+        "updated": "2019-12-04T17:25:44Z"
+      }
+    ]
+  },
+  "VulnZoo: A Complete Vulnerable IoT Ecosystem for Security Research and Training": {
+    "query": "VulnZoo",
+    "candidates": [
+      {
+        "full_name": "DEKRA-Cybersecurity/VulnZoo",
+        "url": "https://github.com/DEKRA-Cybersecurity/VulnZoo",
+        "stars": 2,
+        "desc": "Suite of vulnerable labs for different systems (IoT, API and Mobile) like Medical, Industrial, Automotive, Router and IP Camera.",
+        "updated": "2026-08-04T17:05:55Z"
+      }
+    ]
+  },
+  "Vulnhalla 2.0: LLM-Guided Triage of CodeQL Findings": {
+    "query": "Vulnhalla 2.0",
+    "candidates": []
+  },
+  "WaffleX: Adaptive Semantic Analysis for WAF Resilience Testing": {
+    "query": "WaffleX",
+    "candidates": [
+      {
+        "full_name": "shelltearshall/fuzzy-wafflex",
+        "url": "https://github.com/shelltearshall/fuzzy-wafflex",
+        "stars": 5,
+        "desc": "",
+        "updated": "2025-10-10T16:47:19Z"
+      },
+      {
+        "full_name": "slact/wafflex",
+        "url": "https://github.com/slact/wafflex",
+        "stars": 1,
+        "desc": "",
+        "updated": "2024-01-31T22:59:25Z"
+      },
+      {
+        "full_name": "jycamier/wafflex",
+        "url": "https://github.com/jycamier/wafflex",
+        "stars": 0,
+        "desc": "Test WAF rules by replaying real HTTP traffic through Coraza WAF",
+        "updated": "2026-03-16T21:00:27Z"
+      },
+      {
+        "full_name": "Praveen07d/wafflexx",
+        "url": "https://github.com/Praveen07d/wafflexx",
+        "stars": 0,
+        "desc": "",
+        "updated": "2025-02-11T03:26:26Z"
+      },
+      {
+        "full_name": "wafflexo/wafflexo",
+        "url": "https://github.com/wafflexo/wafflexo",
+        "stars": 0,
+        "desc": "Config files for my GitHub profile.",
+        "updated": "2022-01-28T05:52:29Z"
+      },
+      {
+        "full_name": "wafflexd/wafflexd",
+        "url": "https://github.com/wafflexd/wafflexd",
+        "stars": 0,
+        "desc": "Config files for my GitHub profile.",
+        "updated": "2021-09-06T15:00:29Z"
+      }
+    ]
+  },
+  "WebAgentAudit: Security Auditing of Web-Based AI Agents Through Browser Automation": {
+    "query": "WebAgentAudit",
+    "candidates": [
+      {
+        "full_name": "atom41research/webagentaudit",
+        "url": "https://github.com/atom41research/webagentaudit",
+        "stars": 1,
+        "desc": "WebAgentAudit: Security Auditing of Web-Based AI Agents Through Browser Automation",
+        "updated": "2026-07-21T07:47:16Z"
+      }
+    ]
+  },
+  "capa: Beyond Disassembly: Dynamic Matching for Static Blindspots": {
+    "query": "capa",
+    "candidates": [
+      {
+        "full_name": "ionic-team/capacitor",
+        "url": "https://github.com/ionic-team/capacitor",
+        "stars": 16242,
+        "desc": "Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️",
+        "updated": "2026-08-05T15:59:35Z"
+      },
+      {
+        "full_name": "mandiant/capa",
+        "url": "https://github.com/mandiant/capa",
+        "stars": 6128,
+        "desc": "The FLARE team's open-source tool to identify capabilities in executable files.",
+        "updated": "2026-08-05T11:49:18Z"
+      },
+      {
+        "full_name": "robscott/kube-capacity",
+        "url": "https://github.com/robscott/kube-capacity",
+        "stars": 2656,
+        "desc": "A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster",
+        "updated": "2025-11-21T01:07:32Z"
+      },
+      {
+        "full_name": "mlynch/nextjs-tailwind-ionic-capacitor-starter",
+        "url": "https://github.com/mlynch/nextjs-tailwind-ionic-capacitor-starter",
+        "stars": 1933,
+        "desc": "A starting point for building an iOS, Android, and Progressive Web App with Tailwind CSS, React w/  Next.js, Ionic Framework, and Capacitor",
+        "updated": "2025-09-23T17:57:16Z"
+      },
+      {
+        "full_name": "hitrov/oci-arm-host-capacity",
+        "url": "https://github.com/hitrov/oci-arm-host-capacity",
+        "stars": 1305,
+        "desc": "This script allows to bypass Oracle Cloud Infrastructure 'Out of host capacity' error immediately when additional OCI capacity will appear in your Home Region / Availability domain.",
+        "updated": "2024-08-13T15:32:17Z"
+      },
+      {
+        "full_name": "gimlet-io/capacitor",
+        "url": "https://github.com/gimlet-io/capacitor",
+        "stars": 1168,
+        "desc": "A general purpose UI for FluxCD.",
+        "updated": "2026-02-10T13:21:54Z"
+      }
+    ]
+  },
+  "fetter": {
+    "query": "fetter",
+    "candidates": [
+      {
+        "full_name": "JosephLai241/fetters",
+        "url": "https://github.com/JosephLai241/fetters",
+        "stars": 14,
+        "desc": "A command-line tool that helps you track your job applications.",
+        "updated": "2026-02-01T03:15:54Z"
+      },
+      {
+        "full_name": "jmhickman/Fetters",
+        "url": "https://github.com/jmhickman/Fetters",
+        "stars": 13,
+        "desc": "Port of Seatbelt in F#",
+        "updated": "2020-07-12T22:28:39Z"
+      },
+      {
+        "full_name": "fetter-io/fetter-rs",
+        "url": "https://github.com/fetter-io/fetter-rs",
+        "stars": 13,
+        "desc": "System-wide Python package discovery, validation, and allow-listing",
+        "updated": "2026-08-03T02:43:50Z"
+      },
+      {
+        "full_name": "fetter-io/fetter-py",
+        "url": "https://github.com/fetter-io/fetter-py",
+        "stars": 5,
+        "desc": "System-wide Python package discovery, validation, and allow-listing",
+        "updated": "2026-07-31T02:06:04Z"
+      },
+      {
+        "full_name": "juan-leon/fetter",
+        "url": "https://github.com/juan-leon/fetter",
+        "stars": 4,
+        "desc": "Move processes into control groups based on configurable actions",
+        "updated": "2021-07-15T20:41:24Z"
+      },
+      {
+        "full_name": "paniash/fetter",
+        "url": "https://github.com/paniash/fetter",
+        "stars": 3,
+        "desc": "A python package for calculation of electrical parameters for two-terminal and three-terminal devices from experimental data.",
+        "updated": "2024-04-23T06:08:19Z"
+      }
+    ]
+  },
+  "findmytakeover - find dangling domains in a multi cloud environment": {
+    "query": "findmytakeover",
+    "candidates": [
+      {
+        "full_name": "anirudhbiyani/findmytakeover",
+        "url": "https://github.com/anirudhbiyani/findmytakeover",
+        "stars": 177,
+        "desc": "find dangling domains in a multi cloud environment",
+        "updated": "2026-08-05T14:29:41Z"
+      }
+    ]
+  },
+  "notyet: Automated IAM Persistence Analysis Through AWS Eventual Consistency Abuse": {
+    "query": "notyet",
+    "candidates": [
+      {
+        "full_name": "OFFENSAI/notyet",
+        "url": "https://github.com/OFFENSAI/notyet",
+        "stars": 42,
+        "desc": "Did you contain the compromised identity? notyet",
+        "updated": "2026-07-16T07:44:04Z"
+      },
+      {
+        "full_name": "Shimmermare/NotYetAV1",
+        "url": "https://github.com/Shimmermare/NotYetAV1",
+        "stars": 41,
+        "desc": "Extremely lightweight Chrome plugin to disable AV1 on YouTube.",
+        "updated": "2020-06-15T16:12:48Z"
+      },
+      {
+        "full_name": "Chokyotager/NotYetAnotherNightshade",
+        "url": "https://github.com/Chokyotager/NotYetAnotherNightshade",
+        "stars": 32,
+        "desc": "Graph variational encoders for drug engineering and potentiation",
+        "updated": "2023-07-11T02:04:37Z"
+      },
+      {
+        "full_name": "leahneukirchen/notyet",
+        "url": "https://github.com/leahneukirchen/notyet",
+        "stars": 21,
+        "desc": "a text-based recursive task tracker",
+        "updated": "2019-08-15T17:23:38Z"
+      },
+      {
+        "full_name": "johnpolacek/notyetnews",
+        "url": "https://github.com/johnpolacek/notyetnews",
+        "stars": 18,
+        "desc": "Satirical news site from the future. Generates its own articles every day with AI.",
+        "updated": "2023-08-13T16:33:38Z"
+      },
+      {
+        "full_name": "leeoniya/notyet",
+        "url": "https://github.com/leeoniya/notyet",
+        "stars": 14,
+        "desc": "Lazy image & media loader",
+        "updated": "2022-07-20T11:25:04Z"
+      }
+    ]
+  },
+  "pymsi - Interactive MSI Installer Analysis in Python and the Browser": {
+    "query": "pymsi",
+    "candidates": [
+      {
+        "full_name": "nightlark/pymsi",
+        "url": "https://github.com/nightlark/pymsi",
+        "stars": 62,
+        "desc": "Pure Python library for reading, parsing, and extracting the contents of Windows installer (.msi) files",
+        "updated": "2026-08-03T17:25:42Z"
+      },
+      {
+        "full_name": "SWxTREC/pymsis",
+        "url": "https://github.com/SWxTREC/pymsis",
+        "stars": 38,
+        "desc": "Python interface to the NRLMSIS codes for calculating atmospheric densities and constituents at satellite altitudes",
+        "updated": "2026-07-08T03:22:09Z"
+      },
+      {
+        "full_name": "aitatanit/PyMSI",
+        "url": "https://github.com/aitatanit/PyMSI",
+        "stars": 2,
+        "desc": "Collection of python tools for the analysis of Mass Spectrometry Imaging datasets",
+        "updated": "2015-10-19T13:27:28Z"
+      },
+      {
+        "full_name": "zxjzxj9/pymsi2lmp",
+        "url": "https://github.com/zxjzxj9/pymsi2lmp",
+        "stars": 1,
+        "desc": "Automatically exported from code.google.com/p/pymsi2lmp",
+        "updated": "2015-11-27T03:03:19Z"
+      },
+      {
+        "full_name": "AlanRace/pymsi",
+        "url": "https://github.com/AlanRace/pymsi",
+        "stars": 1,
+        "desc": "",
+        "updated": "2021-06-24T09:56:43Z"
+      },
+      {
+        "full_name": "dev-fYnn/pymsix",
+        "url": "https://github.com/dev-fYnn/pymsix",
+        "stars": 1,
+        "desc": "Cross-platform Python library for creating, extracting and signing MSIX packages",
+        "updated": "2026-05-06T14:27:18Z"
+      }
+    ]
+  },
+  "unrelabel: how to destroy an ML model": {
+    "query": "unrelabel",
+    "candidates": [
+      {
+        "full_name": "oz9un/unrelabel",
+        "url": "https://github.com/oz9un/unrelabel",
+        "stars": 1,
+        "desc": "unrelabel is an interactive toolkit for demonstrating ai data attacks, specifically label-poisoning against ML classifiers",
+        "updated": "2026-08-04T19:07:58Z"
+      },
+      {
+        "full_name": "oz9un/unrelabel-demo",
+        "url": "https://github.com/oz9un/unrelabel-demo",
+        "stars": 0,
+        "desc": "interactive demo of unrelabel tool, showing how label poisoning attacks can silently compromise ml-powered review systems.",
+        "updated": "2026-03-13T21:24:52Z"
+      }
+    ]
+  },
+  "xEndity": {
+    "query": "xEndity",
+    "candidates": [
+      {
+        "full_name": "njokuScript/DeFiDollar",
+        "url": "https://github.com/njokuScript/DeFiDollar",
+        "stars": 2,
+        "desc": "Xend Finance Integration of DeFi Dollar",
+        "updated": "2021-06-09T09:42:27Z"
+      },
+      {
+        "full_name": "luiscvega/xend",
+        "url": "https://github.com/luiscvega/xend",
+        "stars": 1,
+        "desc": "An open source library for shipment of Xend's API",
+        "updated": "2022-10-05T03:38:59Z"
+      },
+      {
+        "full_name": "E-wave112/nodejs-sdk",
+        "url": "https://github.com/E-wave112/nodejs-sdk",
+        "stars": 1,
+        "desc": "The Xend FInance SDK enables existing application to build on Xend Finance without understanding the complexities of the blockchain",
+        "updated": "2022-07-05T04:44:56Z"
+      },
+      {
+        "full_name": "qolbudr/xend-by-ezylab",
+        "url": "https://github.com/qolbudr/xend-by-ezylab",
+        "stars": 1,
+        "desc": "base repo for web xend by ezylab",
+        "updated": "2026-05-07T12:15:02Z"
+      },
+      {
+        "full_name": "E-wave112/xend-python",
+        "url": "https://github.com/E-wave112/xend-python",
+        "stars": 1,
+        "desc": "The Xend FInance SDK arms python developers with the ability to build existing application on Xend Finance without understanding the complexities of the blockchain",
+        "updated": "2022-09-04T11:55:26Z"
+      },
+      {
+        "full_name": "LiberSinon/Xend",
+        "url": "https://github.com/LiberSinon/Xend",
+        "stars": 1,
+        "desc": "Xend app to players from the main team of Cs2",
+        "updated": "2026-01-23T08:45:43Z"
+      }
+    ]
+  }
+}

@@ -1,4 +1,4 @@
-# Awesome Black Hat Arsenal [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Last Update](https://img.shields.io/badge/Updated-May%202026-blue)](https://github.com/elbraino/awesome-blackhat-arsenal)
+# Awesome Black Hat Arsenal [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![Last Update](https://img.shields.io/badge/Updated-August%202026-blue)](https://github.com/elbraino/awesome-blackhat-arsenal)
 [![Project Logo](logo.png)](https://www.blackhat.com/html/arsenal.html)
 > 🚀 A curated list of cutting-edge cybersecurity tools showcased at the Black Hat Arsenal events — covering offensive, defensive, and research-focused security utilities.
 
@@ -65,6 +65,7 @@ Whether you're in red teaming, blue teaming, appsec, or OSINT — this list help
 - [2023](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/USA/2023/README.md)
 - [2024](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/USA/2024/README.md)
 - [2025](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/USA/2025/README.md)
+- [2026](https://github.com/elbraino/awesome-blackhat-arsenal/blob/main/tools/USA/2026/README.md)
 ---
 ## Contributing
 We welcome community contributions to make this list better!

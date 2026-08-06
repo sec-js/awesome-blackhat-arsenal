@@ -38,6 +38,8 @@ CATEGORY_MAP = {
     "AI, ML & Data Science": ("🤖 AI, ML & Data Science", "brightgreen"),
     "Hardware/Embedded": ("🟣 Red Teaming / Embedded", "purple"),
     "Cloud Security": ("☁️ Cloud Security", "blue"),
+    "Risks": ("🔴 Red Teaming / AppSec", "red"),
+    "Privacy": ("🌐 Web/AppSec", "blue"),
 }
 
 # -------------------------------
