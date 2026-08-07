@@ -415,7 +415,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 ![USA 2026](https://img.shields.io/badge/USA%202026-black) ![Category: ⚙️ Miscellaneous / Lab Tools](https://img.shields.io/badge/Category:%20⚙️%20Miscellaneous%20/%20Lab%20Tools-gray) ![Matthias Göhring](https://img.shields.io/badge/Matthias%20Göhring-informational) ![Kai Glauber](https://img.shields.io/badge/Kai%20Glauber-informational) ![Florian Haag](https://img.shields.io/badge/Florian%20Haag-informational)
 
 🔗 **Link:** [Chef Special: Updates to CSTC - CyberChef-inspired Message Transformator in BurpSuite](https://github.com/usdAG/cstc)  
-📝 **Description:** The Cyber Security Transformation Chef is a Burp Suite extension that brings CyberChef-style recipes to live HTTP request and response modification. Recipes apply automatically across Scanner, Intruder, and Repeater, handling application quirks such as body-derived HMACs or expiring JWTs so testers can scan and fuzz without manual re-signing. The 2026 release adds many new operations, improved request sending and conditional handling, and support for multiple active recipes in parallel.
+📝 **Description:** The Cyber Security Transformation Chef is a Burp Suite extension that brings CyberChef-style recipes to live HTTP request and response modification. Recipes apply automatically across Scanner, Intruder, and Repeater, handling application quirks such as body-derived HMACs or expiring JWTs so testers can scan and fuzz without manual re-signing. The latest release adds many new operations, improved request sending and conditional handling, and support for multiple active recipes in parallel.
 
 </details>
 
@@ -896,7 +896,7 @@ Tools are categorized based on their **track theme**, such as Red Teaming, OSINT
 
 ![USA 2026](https://img.shields.io/badge/USA%202026-black) ![Category: 🟣 Red Teaming / Embedded](https://img.shields.io/badge/Category:%20🟣%20Red%20Teaming%20/%20Embedded-purple) ![Anirudh Duggal](https://img.shields.io/badge/Anirudh%20Duggal-informational) ![Vinod Tiwari](https://img.shields.io/badge/Vinod%20Tiwari-informational)
 
-🔗 **Link:** [Medaudit, an AI assisted Tool for Auditing Hospital Networks and Pentesting Medical Devices](https://github.com/anirudhduggal/medaudit)  
+🔗 **Link:** [Medaudit, an AI assisted Tool for Auditing Hospital Networks and Pentesting Medical Devices](https://github.com/anirudhduggal/medaudit2)  
 📝 **Description:** Medaudit is an open-source toolkit for auditing medical device network traffic with a focus on the HL7 protocol. It identifies unencrypted transmissions, detects PHI and PII exposure, and evaluates device resilience through fuzz testing and malformed payloads, with AI-assisted triage prioritising high-risk findings. A web interface manages projects, visualises traffic, and exports results, aimed at network auditors and healthcare security teams working between compliance and proactive testing.
 
 </details>
